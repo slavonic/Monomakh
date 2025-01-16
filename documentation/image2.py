@@ -16,15 +16,16 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 1024, 128, 1
-FONT_PATH = "fonts/ttf/RadioCanadaDisplay-Regular.ttf"
+FONT_PATH = "fonts/ttf/Monomakh-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
 
-LINE_ONE = "ABCDEFGHIJKLMNOPQ"
-LINE_TWO = "RSTUVWXYZ123456789"
-LINE_THREE = "abcdefghijklmnopqrstu"
-LINE_FOUR = "vwxyz,.;:!@#$%^&*(){}[]"
+LINE_ONE = "Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ"
+LINE_THREE = "Бл҃же́нъ мꙋ́жь, и҆́же не́йде на сᲂвѣ́тъ нечести́выхъ"
+LINE_THREE = "Феричи́т꙽ бърба́тꙋл̑ ка́реле на́ꙋ ꙋ҆мбла́т ꙟⷩ҇ ᲃфа́тꙋл̑ некрединчо́шилоⷬ҇"
+LINE_FOUR = "Fericit bărbatul, care n-a umblat în sfatul necredincioșilor"
+
 BIG_TEXT_FONT_SIZE = 160
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.45

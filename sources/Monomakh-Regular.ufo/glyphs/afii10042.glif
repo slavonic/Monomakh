@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10042" format="2">
+  <advance width="973"/>
+  <unicode hex="0428"/>
+  <anchor x="488" y="752" name="TopCap"/>
+  <anchor x="974" y="762" name="DblMark"/>
+  <anchor x="652" y="742" name="Yerik"/>
+  <anchor x="487" y="752" name="CyrTopCap"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="47" y="29" type="line"/>
+      <point x="98" y="29" type="line"/>
+      <point x="98" y="664" type="line"/>
+      <point x="47" y="664" type="line"/>
+      <point x="47" y="693" type="line"/>
+      <point x="286" y="693" type="line"/>
+      <point x="286" y="664" type="line"/>
+      <point x="235" y="664" type="line"/>
+      <point x="235" y="29" type="line"/>
+      <point x="418" y="29" type="line"/>
+      <point x="418" y="664" type="line"/>
+      <point x="367" y="664" type="line"/>
+      <point x="367" y="693" type="line"/>
+      <point x="606" y="693" type="line"/>
+      <point x="606" y="664" type="line"/>
+      <point x="556" y="664" type="line"/>
+      <point x="556" y="29" type="line"/>
+      <point x="738" y="29" type="line"/>
+      <point x="738" y="664" type="line"/>
+      <point x="688" y="664" type="line"/>
+      <point x="688" y="693" type="line"/>
+      <point x="927" y="693" type="line"/>
+      <point x="927" y="664" type="line"/>
+      <point x="876" y="664" type="line"/>
+      <point x="876" y="29" type="line"/>
+      <point x="927" y="29" type="line"/>
+      <point x="927" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>664</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>137</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>418</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>738</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

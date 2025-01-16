@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ogonek" format="2">
+  <advance width="429"/>
+  <unicode hex="F342"/>
+  <outline>
+    <contour>
+      <point x="124" y="-152" type="curve" smooth="yes"/>
+      <point x="124" y="-108"/>
+      <point x="158" y="-49"/>
+      <point x="223" y="20" type="curve"/>
+      <point x="242" y="1" type="line"/>
+      <point x="208" y="-37"/>
+      <point x="191" y="-69"/>
+      <point x="191" y="-89" type="curve" smooth="yes"/>
+      <point x="191" y="-116"/>
+      <point x="202" y="-133"/>
+      <point x="227" y="-143" type="curve" smooth="yes"/>
+      <point x="257" y="-155"/>
+      <point x="279" y="-164"/>
+      <point x="279" y="-184" type="curve" smooth="yes"/>
+      <point x="279" y="-203"/>
+      <point x="246" y="-246"/>
+      <point x="226" y="-246" type="curve" smooth="yes"/>
+      <point x="180" y="-246"/>
+      <point x="124" y="-209"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-246</integer>
+            <key>width</key>
+            <integer>103</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>124</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
