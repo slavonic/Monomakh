@@ -264,18 +264,11 @@ lookup ccmpContextSpecificAccents {
     @cc13_ahead_3 = [\uni0327 ];
     sub @cc13_match_1' @cc13_match_3'lookup CedillaToCommaaccent  ;
     sub @cc13_match_2' @cc13_match_3'  by [\uni0312 ] ;
-    @cc14_match_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
-    @cc14_match_2 = [\acutecomb \circumflexcmb ];
-    @cc14_back_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
-    @cc14_back_2 = [\acutecomb \circumflexcmb ];
-    @cc14_ahead_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
-    @cc14_ahead_2 = [\acutecomb \circumflexcmb ];
-    sub @cc14_match_1' @cc14_match_2'  by [\acutecomb.high \circumflexcmb.high ] ;
-    @cc15_match_1 = [\afii10146 ];
-    @cc15_match_2 = [\afii10194 \uniA653 \afii10194.anchor ];
-    @cc15_match_3 = [\uniA64B ];
-    @cc15_match_4 = [\gravecomb \acutecomb \uni0311 ];
-    @cc15_match_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
+    @cc14_match_1 = [\afii10146 ];
+    @cc14_match_2 = [\afii10194 \uniA653 \afii10194.anchor ];
+    @cc14_match_3 = [\uniA64B ];
+    @cc14_match_4 = [\gravecomb \acutecomb \uni0311 ];
+    @cc14_match_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
 	\uni030A \uni030B \uni030C \uni030F \uni0312 \uni0313 \uni0314 \uni033E 
 	\uni0360 \uni0361 \uni0483 \uni0484 \uni0485 \uni0486 \uni1DC0 \uni1DC1 
 	\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 
@@ -296,11 +289,11 @@ lookup ccmpContextSpecificAccents {
 	\uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 
 	\uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69E_uni0487 
 	\uniA69F_uni0487 ];
-    @cc15_back_1 = [\afii10146 ];
-    @cc15_back_2 = [\afii10194 \uniA653 \afii10194.anchor ];
-    @cc15_back_3 = [\uniA64B ];
-    @cc15_back_4 = [\gravecomb \acutecomb \uni0311 ];
-    @cc15_back_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
+    @cc14_back_1 = [\afii10146 ];
+    @cc14_back_2 = [\afii10194 \uniA653 \afii10194.anchor ];
+    @cc14_back_3 = [\uniA64B ];
+    @cc14_back_4 = [\gravecomb \acutecomb \uni0311 ];
+    @cc14_back_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
 	\uni030A \uni030B \uni030C \uni030F \uni0312 \uni0313 \uni0314 \uni033E 
 	\uni0360 \uni0361 \uni0483 \uni0484 \uni0485 \uni0486 \uni1DC0 \uni1DC1 
 	\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 
@@ -321,11 +314,11 @@ lookup ccmpContextSpecificAccents {
 	\uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 
 	\uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69E_uni0487 
 	\uniA69F_uni0487 ];
-    @cc15_ahead_1 = [\afii10146 ];
-    @cc15_ahead_2 = [\afii10194 \uniA653 \afii10194.anchor ];
-    @cc15_ahead_3 = [\uniA64B ];
-    @cc15_ahead_4 = [\gravecomb \acutecomb \uni0311 ];
-    @cc15_ahead_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
+    @cc14_ahead_1 = [\afii10146 ];
+    @cc14_ahead_2 = [\afii10194 \uniA653 \afii10194.anchor ];
+    @cc14_ahead_3 = [\uniA64B ];
+    @cc14_ahead_4 = [\gravecomb \acutecomb \uni0311 ];
+    @cc14_ahead_5 = [\circumflexcmb \tildecomb \macroncmb \uni0305 \brevecmb \uni0307 \uni0308 
 	\uni030A \uni030B \uni030C \uni030F \uni0312 \uni0313 \uni0314 \uni033E 
 	\uni0360 \uni0361 \uni0483 \uni0484 \uni0485 \uni0486 \uni1DC0 \uni1DC1 
 	\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 
@@ -346,31 +339,42 @@ lookup ccmpContextSpecificAccents {
 	\uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 
 	\uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69E_uni0487 
 	\uniA69F_uni0487 ];
-    sub @cc15_match_1'lookup LowVariantsforAccents  @cc15_match_4' ;
-    sub @cc15_match_1'lookup LowVariantsforAccents  @cc15_match_5' ;
-    sub @cc15_match_3'lookup LowVariantsforAccents  @cc15_match_4' ;
-    sub @cc15_match_3'lookup LowVariantsforAccents  @cc15_match_5' ;
-    sub @cc15_match_2'lookup LowVariantsforAccents  @cc15_match_5' ;
-    @cc16_match_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
+    sub @cc14_match_1'lookup LowVariantsforAccents  @cc14_match_4' ;
+    sub @cc14_match_1'lookup LowVariantsforAccents  @cc14_match_5' ;
+    sub @cc14_match_3'lookup LowVariantsforAccents  @cc14_match_4' ;
+    sub @cc14_match_3'lookup LowVariantsforAccents  @cc14_match_5' ;
+    sub @cc14_match_2'lookup LowVariantsforAccents  @cc14_match_5' ;
+    @cc15_match_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 
 	\uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA674 
 	\uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA69F ];
-    @cc16_match_2 = [\uniA66F ];
-    @cc16_back_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
+    @cc15_match_2 = [\uniA66F ];
+    @cc15_back_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 
 	\uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA674 
 	\uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA69F ];
-    @cc16_back_2 = [\uniA66F ];
-    @cc16_ahead_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
+    @cc15_back_2 = [\uniA66F ];
+    @cc15_ahead_1 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 
 	\uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA674 
 	\uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA69F ];
-    @cc16_ahead_2 = [\uniA66F ];
-    sub @cc16_match_1'lookup SmallCombiningLettersforVzmet  @cc16_match_2' ;
+    @cc15_ahead_2 = [\uniA66F ];
+    sub @cc15_match_1'lookup SmallCombiningLettersforVzmet  @cc15_match_2' ;
 } ccmpContextSpecificAccents;
+
+lookup ccmpContextSpecificAccentsChained {
+  lookupflag 0;
+    @cc16_match_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
+    @cc16_match_2 = [\acutecomb \circumflexcmb ];
+    @cc16_back_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
+    @cc16_back_2 = [\acutecomb \circumflexcmb ];
+    @cc16_ahead_1 = [\b \d \f \h \k \l \thorn \dcroat \lslash ];
+    @cc16_ahead_2 = [\acutecomb \circumflexcmb ];
+    sub @cc16_back_1 @cc16_match_2'  by [\acutecomb.high \circumflexcmb.high ] ;
+} ccmpContextSpecificAccentsChained;
 
 lookup ccmpCyrillicAccents {
   lookupflag 0;
@@ -699,8 +703,8 @@ lookup dligDiscretionaryLigaturesforLatin {
 
 feature ss06 {
   featureNames {
-    name 3 1 0x409 "Display Cyrillic Decimal i with Dotaccent";
     name 3 1 0x419 "\041e\0442\043e\0431\0440\0430\0436\0430\0442\044c \0434\0435\0441\044f\0442\0438\0447\043d\043e\0435 i \0441 \043e\0434\043d\043e\0439 \0442\043e\0447\043a\043e\0439";
+    name 3 1 0x409 "Display Cyrillic Decimal i with Dotaccent";
   };
 
  script DFLT;
@@ -722,8 +726,8 @@ feature ss06 {
 
 feature ss07 {
   featureNames {
-    name 3 1 0x409 "Display Cyrillic Decimal i with Dieresis";
     name 3 1 0x419 "\041e\0442\043e\0431\0440\0430\0436\0430\0442\044c \0434\0435\0441\044f\0442\0438\0447\043d\043e\0435 i \0441 \0434\0432\0443\043c\044f \0442\043e\0447\043a\0430\043c\0438";
+    name 3 1 0x409 "Display Cyrillic Decimal i with Dieresis";
   };
 
  script DFLT;
@@ -745,8 +749,8 @@ feature ss07 {
 
 feature ss08 {
   featureNames {
-    name 3 1 0x409 "Use Sharp Cyrillic Ze instead of the Round Form";
     name 3 1 0x419 "\0418\0441\043f\043e\043b\044c\0437\043e\0432\0430\0442\044c \043e\0441\0442\0440\0443\044e \0444\043e\0440\043c\0443 \0431\0443\043a\0432\044b \0022\0417\0022 \0432\043c\0435\0441\0442\043e \043e\043a\0440\0443\0433\043b\043e\0439";
+    name 3 1 0x409 "Use Sharp Cyrillic Ze instead of the Round Form";
   };
 
  script DFLT;
@@ -768,8 +772,8 @@ feature ss08 {
 
 feature ss09 {
   featureNames {
-    name 3 1 0x409 "Use the Historic (Double-Sided) Form for Cyrillic Che";
     name 3 1 0x419 "\0418\0441\043f\043e\043b\044c\0437\043e\0432\0430\0442\044c \0438\0441\0442\043e\0440\0438\0447\0435\0441\043a\0443\044e (\0434\0432\0443\0441\0442\043e\0440\043e\043d\043d\044e\044e) \0444\043e\0440\043c\0443 \0434\043b\044f \0431\0443\043a\0432\044b \0022\0427\0022";
+    name 3 1 0x409 "Use the Historic (Double-Sided) Form for Cyrillic Che";
   };
 
  script DFLT;
@@ -791,8 +795,8 @@ feature ss09 {
 
 feature ss10 {
   featureNames {
-    name 3 1 0x409 "Use the Modern Form for Cyrillic Shcha";
     name 3 1 0x419 "\0418\0441\043f\043e\043b\044c\0437\043e\0432\0430\0442\044c \0441\043e\0432\0440\0435\043c\0435\043d\043d\0443\044e \0444\043e\0440\043c\0443 \0434\043b\044f \0431\0443\043a\0432\044b \0022\0429\0022";
+    name 3 1 0x409 "Use the Modern Form for Cyrillic Shcha";
   };
 
  script DFLT;
@@ -814,8 +818,8 @@ feature ss10 {
 
 feature ss11 {
   featureNames {
-    name 3 1 0x409 "Connecting Cyrillic YERY";
     name 3 1 0x419 "\0411\0443\043a\0432\0430 \0022\042b\0022 \0441 \0441\043e\0435\0434\0438\043d\0438\0442\0435\043b\044c\043d\043e\0439 \043b\0438\043d\0438\0435\0439";
+    name 3 1 0x409 "Connecting Cyrillic YERY";
   };
 
  script DFLT;
@@ -837,8 +841,8 @@ feature ss11 {
 
 feature ss13 {
   featureNames {
-    name 3 1 0x409 "Cyrillic Yat with Long Back Beak";
     name 3 1 0x419 "\0418\0441\043f\043e\043b\044c\0437\043e\0432\0430\0442\044c \0022\044f\043a\043e\0440\043d\0443\044e\0022 \0444\043e\0440\043c\0443 \0434\043b\044f \0431\0443\043a\0432\044b \0022\042f\0442\044c\0022 ";
+    name 3 1 0x409 "Cyrillic Yat with Long Back Beak";
   };
 
  script DFLT;
@@ -879,8 +883,8 @@ feature salt {
 
 feature ss01 {
   featureNames {
-    name 3 1 0x409 "Combinations with Comma Below for Romanian";
     name 3 1 0x419 "\0421\043e\0447\0435\0442\0430\043d\0438\044f \0441 \043d\0438\0436\043d\0435\0439 \0437\0430\043f\044f\0442\043e\0439 \0434\043b\044f \0440\0443\043c\044b\043d\0441\043a\043e\0433\043e \044f\0437\044b\043a\0430";
+    name 3 1 0x409 "Combinations with Comma Below for Romanian";
   };
 
  script DFLT;
@@ -921,6 +925,7 @@ feature ccmp {
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
+      lookup ccmpContextSpecificAccentsChained;
       lookup ccmpCyrillicAccents;
       lookup ccmpCapitalAccents;
 
@@ -929,6 +934,7 @@ feature ccmp {
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
+      lookup ccmpContextSpecificAccentsChained;
       lookup ccmpCyrillicAccents;
       lookup ccmpCapitalAccents;
 
@@ -937,18 +943,21 @@ feature ccmp {
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
+      lookup ccmpContextSpecificAccentsChained;
       lookup ccmpCyrillicAccents;
       lookup ccmpCapitalAccents;
      language MOL  exclude_dflt;
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
+      lookup ccmpContextSpecificAccentsChained;
       lookup ccmpCyrillicAccents;
       lookup ccmpCapitalAccents;
      language ROM  exclude_dflt;
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
+      lookup ccmpContextSpecificAccentsChained;
       lookup ccmpCyrillicAccents;
       lookup ccmpCapitalAccents;
 } ccmp;
@@ -966,8 +975,8 @@ feature locl {
 
 feature ss15 {
   featureNames {
-    name 3 1 0x409 "Add Pokrytie to Combining Letters when Appropriate";
     name 3 1 0x419 "\0410\0432\0442\043e\043c\0430\0442\0438\0447\0435\0441\043a\0438 \0434\043e\0431\0430\0432\043b\044f\0442\044c \043f\043e\043a\0440\044b\0442\0438\0435 \043a \0432\044b\043d\043e\0441\043d\044b\043c \0431\0443\043a\0432\0430\043c";
+    name 3 1 0x409 "Add Pokrytie to Combining Letters when Appropriate";
   };
 
  script DFLT;
