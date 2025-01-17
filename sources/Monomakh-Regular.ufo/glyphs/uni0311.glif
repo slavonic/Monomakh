@@ -3,7 +3,6 @@
   <advance width="0"/>
   <unicode hex="0311"/>
   <anchor x="-215" y="547" name="_Kamora"/>
-  <anchor x="-215" y="537" name="_CyrMark"/>
   <outline>
     <component base="cyrflex" xOffset="-430"/>
   </outline>

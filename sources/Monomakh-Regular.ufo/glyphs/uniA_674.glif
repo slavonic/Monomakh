@@ -4,7 +4,6 @@
   <unicode hex="A674"/>
   <anchor x="-215" y="537" name="_CyrMark"/>
   <anchor x="-215" y="811" name="Vzmet"/>
-  <anchor x="-215" y="527" name="_CyrTopCap"/>
   <outline>
     <contour>
       <point x="-332" y="661" type="curve" smooth="yes"/>

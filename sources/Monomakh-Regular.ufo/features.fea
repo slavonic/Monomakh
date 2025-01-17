@@ -109,7 +109,7 @@ lookup ccmpDecompositionBeforeCombiningMarks {
 	\afii10056 \afii10071 \afii10104 ];
     @cc9_ahead_2 = [\gravecomb \acutecomb ];
     sub @cc9_match_1'lookup DecomposeAccented  @cc9_match_2' ;
-    @cc10_match_1 = [\i \j \iogonek \afii10105 \afii10103.dieresis \afii10103.dotaccent ];
+    @cc10_match_1 = [\i \j \iogonek \afii10105 \afii10103.dotaccent ];
     @cc10_match_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
 	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0312 \uni0313 
 	\uni0314 \uni033E \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 
@@ -119,7 +119,7 @@ lookup ccmpDecompositionBeforeCombiningMarks {
 	\uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 
 	\uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D 
 	\uniA69F ];
-    @cc10_back_1 = [\i \j \iogonek \afii10105 \afii10103.dieresis \afii10103.dotaccent ];
+    @cc10_back_1 = [\i \j \iogonek \afii10105 \afii10103.dotaccent ];
     @cc10_back_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
 	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0312 \uni0313 
 	\uni0314 \uni033E \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 
@@ -129,7 +129,7 @@ lookup ccmpDecompositionBeforeCombiningMarks {
 	\uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 
 	\uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D 
 	\uniA69F ];
-    @cc10_ahead_1 = [\i \j \iogonek \afii10105 \afii10103.dieresis \afii10103.dotaccent ];
+    @cc10_ahead_1 = [\i \j \iogonek \afii10105 \afii10103.dotaccent ];
     @cc10_ahead_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
 	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0312 \uni0313 
 	\uni0314 \uni033E \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 
@@ -376,7 +376,7 @@ lookup ccmpContextSpecificAccentsChained {
     sub @cc16_back_1 @cc16_match_2'  by [\acutecomb.high \circumflexcmb.high ] ;
 } ccmpContextSpecificAccentsChained;
 
-lookup ccmpCyrillicAccents {
+lookup ccmpCyrillicAccentsChained {
   lookupflag 0;
     @cc17_match_1 = [\afii10051 \afii10053 \afii10054 \afii10055 \afii10057 \afii10058 \afii10059 
 	\afii10060 \afii10145 \afii10017 \afii10018 \afii10019 \afii10020 
@@ -403,10 +403,9 @@ lookup ccmpCyrillicAccents {
 	\uniA65B \uniA65C \uniA65D \uniA65E \uniA65F \uniA660 \uniA661 \uniA662 
 	\uniA663 \uniA664 \uniA665 \uniA666 \uniA667 \uniA668 \uniA669 \uniA66A 
 	\uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 \uniA69A \uniA69B 
-	\uni0478.cap \afii10103.dieresis \afii10103.dotaccent 
-	\afii10146.low \afii10194.low \uniA64B.low \afii10043.modern 
-	\afii10091.modern \uni1C82 \afii10041.old \afii10089.old 
-	\uniA653.low ];
+	\uni0478.cap \afii10103.dotaccent \afii10146.low \afii10194.low 
+	\uniA64B.low \afii10043.modern \afii10091.modern \uni1C82 
+	\afii10041.old \afii10089.old \uniA653.low ];
     @cc17_match_2 = [\brevecmb \uni0307 \uni0308 \uni0308_acutecomb \uni0308_gravecomb ];
     @cc17_back_1 = [\afii10051 \afii10053 \afii10054 \afii10055 \afii10057 \afii10058 \afii10059 
 	\afii10060 \afii10145 \afii10017 \afii10018 \afii10019 \afii10020 
@@ -433,10 +432,9 @@ lookup ccmpCyrillicAccents {
 	\uniA65B \uniA65C \uniA65D \uniA65E \uniA65F \uniA660 \uniA661 \uniA662 
 	\uniA663 \uniA664 \uniA665 \uniA666 \uniA667 \uniA668 \uniA669 \uniA66A 
 	\uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 \uniA69A \uniA69B 
-	\uni0478.cap \afii10103.dieresis \afii10103.dotaccent 
-	\afii10146.low \afii10194.low \uniA64B.low \afii10043.modern 
-	\afii10091.modern \uni1C82 \afii10041.old \afii10089.old 
-	\uniA653.low ];
+	\uni0478.cap \afii10103.dotaccent \afii10146.low \afii10194.low 
+	\uniA64B.low \afii10043.modern \afii10091.modern \uni1C82 
+	\afii10041.old \afii10089.old \uniA653.low ];
     @cc17_back_2 = [\brevecmb \uni0307 \uni0308 \uni0308_acutecomb \uni0308_gravecomb ];
     @cc17_ahead_1 = [\afii10051 \afii10053 \afii10054 \afii10055 \afii10057 \afii10058 \afii10059 
 	\afii10060 \afii10145 \afii10017 \afii10018 \afii10019 \afii10020 
@@ -463,15 +461,14 @@ lookup ccmpCyrillicAccents {
 	\uniA65B \uniA65C \uniA65D \uniA65E \uniA65F \uniA660 \uniA661 \uniA662 
 	\uniA663 \uniA664 \uniA665 \uniA666 \uniA667 \uniA668 \uniA669 \uniA66A 
 	\uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 \uniA69A \uniA69B 
-	\uni0478.cap \afii10103.dieresis \afii10103.dotaccent 
-	\afii10146.low \afii10194.low \uniA64B.low \afii10043.modern 
-	\afii10091.modern \uni1C82 \afii10041.old \afii10089.old 
-	\uniA653.low ];
+	\uni0478.cap \afii10103.dotaccent \afii10146.low \afii10194.low 
+	\uniA64B.low \afii10043.modern \afii10091.modern \uni1C82 
+	\afii10041.old \afii10089.old \uniA653.low ];
     @cc17_ahead_2 = [\brevecmb \uni0307 \uni0308 \uni0308_acutecomb \uni0308_gravecomb ];
-    sub @cc17_match_1' @cc17_match_2'  by [\brevecmb.cyrl \uni0307.cyrl \uni0308.cyrl \uni0308_acutecomb.cyrl \uni0308_gravecomb.cyrl ] ;
-} ccmpCyrillicAccents;
+    sub @cc17_back_1 @cc17_match_2'  by [\brevecmb.cyrl \uni0307.cyrl \uni0308.cyrl \uni0308_acutecomb.cyrl \uni0308_gravecomb.cyrl ] ;
+} ccmpCyrillicAccentsChained;
 
-lookup ccmpCapitalAccents {
+lookup ccmpCapitalAccentsChained {
   lookupflag 0;
     @cc18_match_1 = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \AE \Ccedilla \Eth 
 	\Oslash \Thorn \Aogonek \Dcroat \Eogonek \Hbar \Iogonek \Kcommaaccent 
@@ -491,10 +488,10 @@ lookup ccmpCapitalAccents {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_match_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
-	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
-	\uni0308_gravecomb \uni0308_acutecomb \uni0485_gravecomb 
-	\uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb 
+    @cc18_match_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
+	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
+	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
 	\uni0308_acutecomb.cyrl ];
     @cc18_back_1 = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \AE \Ccedilla \Eth 
@@ -515,10 +512,10 @@ lookup ccmpCapitalAccents {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_back_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
-	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
-	\uni0308_gravecomb \uni0308_acutecomb \uni0485_gravecomb 
-	\uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb 
+    @cc18_back_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
+	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
+	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
 	\uni0308_acutecomb.cyrl ];
     @cc18_ahead_1 = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \AE \Ccedilla \Eth 
@@ -539,14 +536,14 @@ lookup ccmpCapitalAccents {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_ahead_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
-	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
-	\uni0308_gravecomb \uni0308_acutecomb \uni0485_gravecomb 
-	\uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb 
+    @cc18_ahead_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
+	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
+	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
 	\uni0308_acutecomb.cyrl ];
-    sub @cc18_match_1' @cc18_match_2'  by [\gravecomb.cap \acutecomb.cap \circumflexcmb.cap NULL \macroncmb.cap \brevecmb.cap \uni0307.cap \uni0308.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0485.cap \uni0486.cap \uni0308_gravecomb.cap \uni0308_acutecomb.cap \uni0485_gravecomb.cap \uni0485_acutecomb.cap \uni0486_gravecomb.cap \uni0486_acutecomb.cap \brevecmb.cyrcap \uni0308.cyrcap \uni0308_gravecomb.cyrcap \uni0308_acutecomb.cyrcap ] ;
-} ccmpCapitalAccents;
+    sub @cc18_back_1 @cc18_match_2'  by [\gravecomb.cap \acutecomb.cap \circumflexcmb.cap \macroncmb.cap \brevecmb.cap \uni0307.cap \uni0308.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0485.cap \uni0486.cap \uni0486_acutecomb.cap \uni0486_gravecomb.cap \uni0485_acutecomb.cap \uni0485_gravecomb.cap \uni0308_acutecomb.cap \uni0308_gravecomb.cap \brevecmb.cyrcap \uni0308.cyrcap \uni0308_gravecomb.cyrcap \uni0308_acutecomb.cyrcap ] ;
+} ccmpCapitalAccentsChained;
 
 lookup loclss01RomanianVariantForms {
   lookupflag 0;
@@ -618,7 +615,7 @@ lookup caltContextualAlternatesforOldCyrillic {
 	\uniA669 \uniA66A \uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 
 	\uniA69A \uniA69B ];
     @cc22_match_3 = [\uni0483 ];
-    @cc22_match_4 = [\afii10103.dieresis \afii10103.dotaccent ];
+    @cc22_match_4 = [\afii10103.dotaccent ];
     @cc22_back_1 = [\afii10065 \afii10067 \afii10068 \afii10069 \afii10070 \afii10073 \afii10074 
 	\afii10082 \afii10083 \afii10084 \afii10085 \afii10086 \afii10087 
 	\afii10088 \afii10101 \afii10102 \uni0461 \afii10195 \afii10196 
@@ -649,7 +646,7 @@ lookup caltContextualAlternatesforOldCyrillic {
 	\uniA669 \uniA66A \uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 
 	\uniA69A \uniA69B ];
     @cc22_back_3 = [\uni0483 ];
-    @cc22_back_4 = [\afii10103.dieresis \afii10103.dotaccent ];
+    @cc22_back_4 = [\afii10103.dotaccent ];
     @cc22_ahead_1 = [\afii10065 \afii10067 \afii10068 \afii10069 \afii10070 \afii10073 \afii10074 
 	\afii10082 \afii10083 \afii10084 \afii10085 \afii10086 \afii10087 
 	\afii10088 \afii10101 \afii10102 \uni0461 \afii10195 \afii10196 
@@ -680,7 +677,7 @@ lookup caltContextualAlternatesforOldCyrillic {
 	\uniA669 \uniA66A \uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 
 	\uniA69A \uniA69B ];
     @cc22_ahead_3 = [\uni0483 ];
-    @cc22_ahead_4 = [\afii10103.dieresis \afii10103.dotaccent ];
+    @cc22_ahead_4 = [\afii10103.dotaccent ];
     ignore sub @cc22_back_3 @cc22_back_1 @cc22_match_4' @cc22_ahead_1 ;
     ignore sub @cc22_back_3 @cc22_back_1 @cc22_match_4' @cc22_ahead_2 ;
     sub @cc22_back_3 @cc22_back_1 @cc22_match_4'lookup DotlessVariants  ;
@@ -926,8 +923,8 @@ feature ccmp {
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
       lookup ccmpContextSpecificAccentsChained;
-      lookup ccmpCyrillicAccents;
-      lookup ccmpCapitalAccents;
+      lookup ccmpCyrillicAccentsChained;
+      lookup ccmpCapitalAccentsChained;
 
  script cyrl;
      language dflt ;
@@ -935,8 +932,8 @@ feature ccmp {
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
       lookup ccmpContextSpecificAccentsChained;
-      lookup ccmpCyrillicAccents;
-      lookup ccmpCapitalAccents;
+      lookup ccmpCyrillicAccentsChained;
+      lookup ccmpCapitalAccentsChained;
 
  script latn;
      language dflt ;
@@ -944,22 +941,22 @@ feature ccmp {
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
       lookup ccmpContextSpecificAccentsChained;
-      lookup ccmpCyrillicAccents;
-      lookup ccmpCapitalAccents;
+      lookup ccmpCyrillicAccentsChained;
+      lookup ccmpCapitalAccentsChained;
      language MOL  exclude_dflt;
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
       lookup ccmpContextSpecificAccentsChained;
-      lookup ccmpCyrillicAccents;
-      lookup ccmpCapitalAccents;
+      lookup ccmpCyrillicAccentsChained;
+      lookup ccmpCapitalAccentsChained;
      language ROM  exclude_dflt;
       lookup ccmpDecompositionBeforeCombiningMarks;
       lookup ccmpSimpleGlyphComposition;
       lookup ccmpContextSpecificAccents;
       lookup ccmpContextSpecificAccentsChained;
-      lookup ccmpCyrillicAccents;
-      lookup ccmpCapitalAccents;
+      lookup ccmpCyrillicAccentsChained;
+      lookup ccmpCapitalAccentsChained;
 } ccmp;
 
 feature locl {
@@ -1427,7 +1424,7 @@ lookup markCombiningMarkPositioning {
   pos base [\afii10146.low ] <anchor 341 752> mark @TopCap;
   pos base [\afii10043.modern ] <anchor 486 752> mark @TopCap;
   pos base [\afii10041.old ] <anchor 359 752> mark @TopCap;
-  markClass [\uni030F \uni0311 \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 \uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 \uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69F \uni0485_gravecomb \uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb \uni2DE0_uni0487 \uni2DE1_uni0487 \uni2DE2_uni0487 \uni2DE3_uni0487 \uni2DE4_uni0487 \uni2DE5_uni0487 \uni2DE6_uni0487 \uni2DE7_uni0487 \uni2DE8_uni0487 \uni2DE9_uni0487 \uni2DEA_uni0487 \uni2DEB_uni0487 \uni2DEC_uni0487 \uni2DED_uni0487 \uni2DEE_uni0487 \uni2DEF_uni0487 \uni2DF0_uni0487 \uni2DF1_uni0487 \uni2DF2_uni0487 \uni2DF3_uni0487 \uni2DF4_uni0487 \uni2DF6_uni0487 \uni2DF7_uni0487 \uni2DF8_uni0487 \uni2DF9_uni0487 \uni2DFA_uni0487 \uni2DFB_uni0487 \uni2DFC_uni0487 \uni2DFD_uni0487 \uni2DFE_uni0487 \uni2DFF_uni0487 \uniA674_uni0487 \uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 \uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69F_uni0487 \brevecmb.cyrl \uni0307.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl \uni0308_acutecomb.cyrl \uni2DE3.small \uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uniA69E \uniA69E_uni0487 \uniFE2E ] <anchor -215 537> @CyrMark;
+  markClass [\uni030F \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 \uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 \uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69F \uni0485_gravecomb \uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb \uni2DE0_uni0487 \uni2DE1_uni0487 \uni2DE2_uni0487 \uni2DE3_uni0487 \uni2DE4_uni0487 \uni2DE5_uni0487 \uni2DE6_uni0487 \uni2DE7_uni0487 \uni2DE8_uni0487 \uni2DE9_uni0487 \uni2DEA_uni0487 \uni2DEB_uni0487 \uni2DEC_uni0487 \uni2DED_uni0487 \uni2DEE_uni0487 \uni2DEF_uni0487 \uni2DF0_uni0487 \uni2DF1_uni0487 \uni2DF2_uni0487 \uni2DF3_uni0487 \uni2DF4_uni0487 \uni2DF6_uni0487 \uni2DF7_uni0487 \uni2DF8_uni0487 \uni2DF9_uni0487 \uni2DFA_uni0487 \uni2DFB_uni0487 \uni2DFC_uni0487 \uni2DFD_uni0487 \uni2DFE_uni0487 \uni2DFF_uni0487 \uniA674_uni0487 \uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 \uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69F_uni0487 \brevecmb.cyrl \uni0307.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl \uni0308_acutecomb.cyrl \uni2DE3.small \uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uniA69E \uniA69E_uni0487 \uniFE2E ] <anchor -215 537> @CyrMark;
   markClass [\uniFE2F ] <anchor -215 546> @CyrMark;
   markClass [\uniFE26 ] <anchor -215 545> @CyrMark;
   markClass [\uni0486_0311 ] <anchor -109 537> @CyrMark;
@@ -1643,7 +1640,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni1C86 ] <anchor 271 518> mark @Yerik;
   pos base [\uni1C88 ] <anchor 316 888> mark @Yerik;
   pos base [\uni0460.alt ] <anchor 706 742> mark @Yerik;
-  markClass [\uni0483 \uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 \uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 \uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69F \uni2DE0_uni0487 \uni2DE1_uni0487 \uni2DE2_uni0487 \uni2DE3_uni0487 \uni2DE4_uni0487 \uni2DE5_uni0487 \uni2DE6_uni0487 \uni2DE7_uni0487 \uni2DE8_uni0487 \uni2DE9_uni0487 \uni2DEA_uni0487 \uni2DEB_uni0487 \uni2DEC_uni0487 \uni2DED_uni0487 \uni2DEE_uni0487 \uni2DEF_uni0487 \uni2DF0_uni0487 \uni2DF1_uni0487 \uni2DF2_uni0487 \uni2DF3_uni0487 \uni2DF4_uni0487 \uni2DF6_uni0487 \uni2DF7_uni0487 \uni2DF8_uni0487 \uni2DF9_uni0487 \uni2DFA_uni0487 \uni2DFB_uni0487 \uni2DFC_uni0487 \uni2DFD_uni0487 \uni2DFE_uni0487 \uni2DFF_uni0487 \uniA674_uni0487 \uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 \uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69F_uni0487 \uni0307.cyrl \uni2DE3.small \uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uniA69E \uniA69E_uni0487 \uniFE2E ] <anchor -215 527> @CyrTopCap;
+  markClass [\uni2DE0_uni0487 \uni2DE1_uni0487 \uni2DE2_uni0487 \uni2DE3_uni0487 \uni2DE4_uni0487 \uni2DE5_uni0487 \uni2DE6_uni0487 \uni2DE7_uni0487 \uni2DE8_uni0487 \uni2DE9_uni0487 \uni2DEA_uni0487 \uni2DEB_uni0487 \uni2DEC_uni0487 \uni2DED_uni0487 \uni2DEE_uni0487 \uni2DEF_uni0487 \uni2DF0_uni0487 \uni2DF1_uni0487 \uni2DF2_uni0487 \uni2DF3_uni0487 \uni2DF4_uni0487 \uni2DF6_uni0487 \uni2DF7_uni0487 \uni2DF8_uni0487 \uni2DF9_uni0487 \uni2DFA_uni0487 \uni2DFB_uni0487 \uni2DFC_uni0487 \uni2DFD_uni0487 \uni2DFE_uni0487 \uni2DFF_uni0487 \uniA674_uni0487 \uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 \uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69F_uni0487 \uni0307.cyrl \uni2DE3.small \uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uniA69E_uni0487 \uniFE2E ] <anchor -215 527> @CyrTopCap;
   markClass [\gravecomb.cap \acutecomb.cap \macroncmb.cap \uni030F.cap \uni0311.cap \uni0485.cap \uni0486.cap \uni0485_gravecomb.cap \uni0485_acutecomb.cap \uni0486_gravecomb.cap \uni0486_acutecomb.cap \brevecmb.cyrcap \uni0308.cyrcap ] <anchor -215 752> @CyrTopCap;
   markClass [\uni0308_gravecomb.cyrcap ] <anchor -205 752> @CyrTopCap;
   markClass [\uni0308_acutecomb.cyrcap ] <anchor -221 752> @CyrTopCap;
