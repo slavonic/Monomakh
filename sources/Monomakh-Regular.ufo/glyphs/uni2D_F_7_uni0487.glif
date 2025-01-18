@@ -2,7 +2,6 @@
 <glyph name="uni2DF7_uni0487" format="2">
   <advance width="0"/>
   <unicode hex="F4F7"/>
-  <anchor x="-215" y="527" name="_CyrTopCap"/>
   <anchor x="-215" y="537" name="_CyrMark"/>
   <outline>
     <component base="uni0487.narrow"/>

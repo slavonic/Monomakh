@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1315915564
-ModificationTime: 1737139563
+ModificationTime: 1737190295
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1306,16 +1306,16 @@ ShortTable: cvt  85
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/ofl"
 GaspTable: 3 10 8 19 5 65535 15 1
-OtfFeatName: 'ss01' 1033 "Combinations with Comma Below for Romanian" 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA"
-OtfFeatName: 'ss06' 1033 "Display Cyrillic Decimal i with Dotaccent" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5"
-OtfFeatName: 'ss07' 1033 "Display Cyrillic Decimal i with Dieresis" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA"
-OtfFeatName: 'ss08' 1033 "Use Sharp Cyrillic Ze instead of the Round Form" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +ACIEFwAi +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA"
-OtfFeatName: 'ss09' 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEJwAi"
-OtfFeatName: 'ss10' 1033 "Use the Modern Form for Cyrillic Shcha" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEKQAi"
-OtfFeatName: 'ss11' 1033 "Connecting Cyrillic YERY" 1049 "+BBEEQwQ6BDIEMAAA +ACIEKwAi +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5"
-OtfFeatName: 'ss12' 1033 "Cyrillic Tverdo with Three Legs" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEIgAi"
-OtfFeatName: 'ss13' 1033 "Cyrillic Yat with Long Back Beak" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +ACIETwQ6BD4EQAQ9BEMETgAi +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIELwRCBEwAIgAA "
-OtfFeatName: 'ss15' 1033 "Add Pokrytie to Combining Letters when Appropriate" 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8"
+OtfFeatName: 'ss15' 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8" 1033 "Add Pokrytie to Combining Letters when Appropriate"
+OtfFeatName: 'ss13' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +ACIETwQ6BD4EQAQ9BEMETgAi +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIELwRCBEwAIgAA " 1033 "Cyrillic Yat with Long Back Beak"
+OtfFeatName: 'ss12' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEIgAi" 1033 "Cyrillic Tverdo with Three Legs"
+OtfFeatName: 'ss11' 1049 "+BBEEQwQ6BDIEMAAA +ACIEKwAi +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5" 1033 "Connecting Cyrillic YERY"
+OtfFeatName: 'ss10' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEKQAi" 1033 "Use the Modern Form for Cyrillic Shcha"
+OtfFeatName: 'ss09' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEJwAi" 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che"
+OtfFeatName: 'ss08' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +ACIEFwAi +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA" 1033 "Use Sharp Cyrillic Ze instead of the Round Form"
+OtfFeatName: 'ss07' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA" 1033 "Display Cyrillic Decimal i with Dieresis"
+OtfFeatName: 'ss06' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5" 1033 "Display Cyrillic Decimal i with Dotaccent"
+OtfFeatName: 'ss01' 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA" 1033 "Combinations with Comma Below for Romanian"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -25239,7 +25239,6 @@ GlyphClass: 4
 Flags: HW
 HStem: 547 21<-234.727 -173.172> 691 86<-152.072 -128.138> 744 62<62.3023 125.568> 756 21<-333.977 -310.073 -234.969 -169.721> 884 29<-299.54 -140.349>
 VStem: -310 75<568 663.99 671.737 755.997> -173 74<568.248 632.025>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -25258,12 +25257,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 545 23<-268.964 -176.08> 545 104<-175.551 -110.074> 726 62<50.3023 113.568> 736 25<-269 -184.004> 866 29<-311.54 -152.349>
 VStem: -335 66<568 652.338 665 736> -184 77<716.458 754> -176 81<568.101 633.729>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -16 -18 2
 Refer: 577 11745 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE1 uni0487
 Colour: ffff00
 EndChar
@@ -25276,12 +25275,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 686 91<-145.538 -123.128> 744 62<66.3023 129.568> 756 21<-318.988 -295.091 -220.944 -163.693> 884 29<-295.54 -136.349>
 VStem: -295 74<545.729 755.997>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 578 11746 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE2 uni0487
 Colour: ffff00
 EndChar
@@ -25291,17 +25290,16 @@ Encoding: 62691 62691 725
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 542 84<-339.766 -314.613 -108.994 -92.4211> 605 21<-293.993 -185.001> 732 54<-249.457 -220.949> 744 62<57.3023 120.568> 884 29<-304.54 -145.349>
 VStem: -367 310<605.161 625.996>
 DStem2: -312 646 -287 649 0.513194 0.858273<-2.65663 113.816> -162 757 -229 727 0.437285 -0.899323<-8.97903 102.229>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -9 0 2
 Refer: 822 63459 N 1 0 0 1 0 0 2
-Validated: 32769
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE3 uni0487
 Colour: ffff00
 EndChar
@@ -25311,16 +25309,15 @@ Encoding: 62692 62692 726
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 529 67<-412.574 -339.023 -90.9765 -17.4263> 651 30<-261.832 -252 -178 -168.157> 696 83<173.256 260.5> 748 28<-390.998 -328.573 -100.72 -38.5018> 891 29<-344.928 -133.951>
 VStem: -430 61<691.845 747.985> -271 112<633.373 706.124> -252 74<535.729 651 681 765.492> -62 62<689.888 747.985>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 830 -1 N 1 0 0 1 -9 0 2
 Refer: 823 63460 N 1 0 0 1 0 0 2
-Validated: 32769
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE4 uni0487
 Colour: ffff00
 EndChar
@@ -25330,16 +25327,15 @@ Encoding: 62693 62693 727
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 531 67<-336.056 -287.907> 639 48<-269.329 -205.235> 655 22<-226.526 -187.956> 744 62<62.3023 125.568> 767 21<-248.532 -193.958> 884 29<-299.54 -140.349>
 VStem: -345 54<536.339 560.372> -337 74<710.731 759.973> -181 75<687.915 763.464> -166 76<566.527 644.523>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -4 0 2
 Refer: 824 63461 N 1 0 0 1 0 0 2
-Validated: 32769
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE5 uni0487
 Colour: ffff00
 EndChar
@@ -25352,12 +25348,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 656 22<-252 -211.754> 711 73<-172.835 -115.44> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -326 74<545.729 656 678 775.498> -186 86<547.015 612.055>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 582 11750 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE6 uni0487
 Colour: ffff00
 EndChar
@@ -25370,12 +25366,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 707 71<-228.85 -187.5> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -331 70<551.143 642.263>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 583 11751 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE7 uni0487
 Colour: ffff00
 EndChar
@@ -25385,16 +25381,15 @@ Encoding: 62696 62696 730
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 544 45<-397.214 -344.482> 544 79<-430.193 -380.177 -189 -174.452> 706 70<180.15 253.737> 883 29<-313.474 -126.087>
 DStem2: -239 750 -291 690 0.354227 -0.935159<37.6898 141.152> -71 750 -126 699 0.349209 -0.937045<28.5828 196.41>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 501 1159 N 1 0 0 1 0 0 2
 Refer: 825 63464 N 1 0 0 1 0 0 2
-Validated: 32769
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE8 uni0487
 Colour: ffff00
 EndChar
@@ -25408,12 +25403,12 @@ Flags: HW
 HStem: 545 237<-329.972 -257.38 -171.972 -99> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -331 74<545.729 694 727 775.498> -173 74<545.729 598 629 775.498>
 DStem2: -257 727 -257 694 0.650791 -0.759257<25.0555 129.074>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 585 11753 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DE9 uni0487
 Colour: ffff00
 EndChar
@@ -25426,12 +25421,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 536 55<-234.641 -173.641> 731 57<-257.031 -194.407> 744 62<68.3023 131.568> 884 29<-293.54 -134.349>
 VStem: -328 47<636.718 714.324> -148 46<608.774 684.856>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 2 0 2
 Refer: 586 11754 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DEA uni0487
 Colour: ffff00
 EndChar
@@ -25444,12 +25439,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 545 232<-328.62 -255.38 -174.62 -101> 744 62<54.3023 117.568> 756 21<-353.974 -329.091 -254.944 -175.056> 884 29<-307.54 -148.349>
 VStem: -329 74<545.729 755.997> -175 74<545.729 755.998>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -12 0 2
 Refer: 587 11755 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DEB uni0487
 Colour: ffff00
 EndChar
@@ -25462,12 +25457,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 641 18<-223.041 -179.942> 744 62<82.3023 145.568> 766 21<-224.211 -178.687> 884 29<-279.54 -120.349>
 VStem: -311 75<545.791 647 661.614 740.516> -166 70<665.245 762.371>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 16 0 2
 Refer: 588 11756 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DEC uni0487
 Colour: ffff00
 EndChar
@@ -25480,12 +25475,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 561 53<-219.463 -135.745> 744 62<78.3023 141.568> 756 32<-200.495 -139.935> 884 29<-283.54 -124.349>
 VStem: -322 91<625.42 734.026>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 12 0 2
 Refer: 589 11757 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DED uni0487
 Colour: ffff00
 EndChar
@@ -25495,16 +25490,15 @@ Encoding: 62702 62702 736
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 686 95<-334.564 -310.542 -119.458 -95.3435> 706 70<169.15 242.737> 756 21<-292.207 -252.106 -177.894 -137.793> 883 29<-324.474 -137.087>
 VStem: -252 74<545.729 755.998>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 501 1159 N 1 0 0 1 -11 0 2
 Refer: 826 63470 N 1 0 0 1 0 0 2
-Validated: 32769
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DEE uni0487
 Colour: ffff00
 EndChar
@@ -25518,12 +25512,12 @@ Flags: HW
 HStem: 753 70<180.15 253.737> 778 70<-133.314 -72.8896> 930 29<-313.474 -126.087>
 VStem: -362 312
 DStem2: -262 821 -337 790 0.611983 -0.790871<-42.7917 106.212 119.537 136.424 149.823 317.716> -245 669 -301 560 0.571911 0.820316<-135.505 -5.44181 83.2332 139.922>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 501 1159 N 1 0 0 1 0 47 2
 Refer: 591 11759 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DEF uni0487
 Colour: ffff00
 EndChar
@@ -25537,12 +25531,12 @@ Flags: HW
 HStem: 541 98<-91.4168 -62.0254> 545 21<-353.909 -329.375> 594 39<-101 -90.3438> 594 183<-174.794 -101.263> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -329 74<590.004 776.271> -175 74<633.004 776.271> -85 22<541.069 585.378>
 DStem2: -185 604 -138 590 0.974391 0.22486<-61.5126 12.9903>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 592 11760 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF0 uni0487
 Colour: ffff00
 EndChar
@@ -25555,12 +25549,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 631 21<-252.801 -193.001> 744 62<56.3023 119.568> 884 29<-305.54 -146.349>
 VStem: -337 74<655.609 775.498> -193 74<545.729 630.999 652 775.498>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -10 0 2
 Refer: 593 11761 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF1 uni0487
 Colour: ffff00
 EndChar
@@ -25573,12 +25567,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 547 21<-423.977 -399.091 -324.944 -252.056 -177.944 -104.056> 547 235<-397.973 -325.008 -250.972 -178.007 -102.973 -30> 696 83<182.256 269.5> 891 29<-335.928 -124.951>
 VStem: -399 74<568.003 775.498> -252 74<568.002 775.498> -104 74<568.002 775.498>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 830 -1 N 1 0 0 1 0 0 2
 Refer: 594 11762 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF2 uni0487
 Colour: ffff00
 EndChar
@@ -25591,12 +25585,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 579 22<-423.994 -399 -324.986 -252.014 -177.986 -104.014> 579 203<-397.973 -325.008 -102.973 -30> 696 83<182.256 269.5> 891 29<-335.928 -124.951>
 VStem: -399 74<601.002 775.498> -252 74<512.729 579 601.001 775.498> -104 74<601.001 775.498>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 830 -1 N 1 0 0 1 0 0 2
 Refer: 595 11763 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF3 uni0487
 Colour: ffff00
 EndChar
@@ -25609,12 +25603,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 543 86<-361.353 -336.207 -251.732 -184.247 -96.4982 -70.6472> 607 22<-317.375 -280.033 -151.887 -114.781> 730 86<-247.6 -179.13> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -285 25<645.18 714.274> -171 25<644.377 714.972>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 596 11764 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF4 uni0487
 Colour: ffff00
 EndChar
@@ -25628,12 +25622,12 @@ Flags: HW
 HStem: 538 29<-278 -218.109> 699 79<-227.778 -192.5> 744 62<78.3023 141.568> 884 29<-283.54 -124.349>
 VStem: -324 72<567.625 639.086>
 DStem2: -140 678 -217 694 0.263 -0.964796<-41.5503 122.468>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 12 0 2
 Refer: 598 11766 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF6 uni0487
 Colour: ffff00
 EndChar
@@ -25646,12 +25640,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 546 43<-270.943 -125.67> 562 51<-206.729 -92.5627> 675 20<-168.5 -160.5> 741 50<-250.618 -155.65> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -309 55<692.052 732.83> -291 20<593.582 624.072>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 599 11767 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF7 uni0487
 Colour: ffff00
 EndChar
@@ -25664,12 +25658,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 732 25<-337.612 -252 -178 -92.3877> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -355 79<535.672 622.864> -252 74<667.449 732 757 824.594> -153 79<535.762 621.229>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 600 11768 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF8 uni0487
 Colour: ffff00
 EndChar
@@ -25682,12 +25676,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 531 22<-251.525 -176.942> 659 60<-220.305 -186.682> 765 70<204.15 277.737> 836 57<-171.031 -120.033> 942 29<-289.474 -102.087>
 VStem: -331 68<734 807> -296 25<569.222 632.848> -161 58<565.508 633.681> -118 33<766.916 831.895>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 601 11769 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 24 59 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DF9 uni0487
 Colour: ffff00
 EndChar
@@ -25701,12 +25695,12 @@ Flags: HW
 HStem: 537 22<-196.997 -124.004> 639 129<-382.336 -309.002> 641 22<-181.719 -159.098> 736 70<168.15 241.737> 746 22<-406.994 -383.033 -308.98 -243 -167 -107.116> 913 29<-325.474 -138.087>
 VStem: -383 74<640.389 745.997> -271 74<559 609.5> -124 78<542.5 600.072>
 DStem2: -270 564 -196 575 0.150131 0.988666<12.9869 90.5969 118.109 183.991 217.151 289.454>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 602 11770 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -12 30 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFA uni0487
 Colour: ffff00
 EndChar
@@ -25720,12 +25714,12 @@ Flags: HW
 HStem: 541 86<-188.079 -124.19> 697 86<-186.062 -121.025> 744 62<62.3023 125.568> 884 29<-299.54 -140.349>
 VStem: -329 74<545.729 648.938 661 775.498> -217 26<637.264 657 674.656 688.901> -118 25<636.827 687.64>
 DStem2: -255 661 -252 638 0.878853 0.477092<0 31.0863>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -4 0 2
 Refer: 603 11771 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFB uni0487
 Colour: ffff00
 EndChar
@@ -25738,12 +25732,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 538 29<-225 -164.626> 699 79<-173.807 -138.5> 706 70<146.15 219.737> 724 21<-298 -176.002> 883 29<-347.474 -160.087>
 VStem: -372 74<545.729 724 745 775.498> -271 73<567.625 638.669>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 604 11772 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -34 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFC uni0487
 Colour: ffff00
 EndChar
@@ -25757,12 +25751,12 @@ Flags: HW
 HStem: 545 113<-255.204 -182.245> 732 47<-242.936 -199.662> 744 62<62.3023 125.568> 884 29<-299.54 -140.349>
 VStem: -377 74<545 632.9> -256 74<545.729 640.856> -114 73<545 620.33>
 DStem2: -163 769 -211 727 0.588172 -0.808736<-4.05255 79.4673 93.6896 200.978>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -4 0 2
 Refer: 605 11773 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFD uni0487
 Colour: ffff00
 EndChar
@@ -25776,12 +25770,12 @@ Flags: HW
 HStem: 668 31<-189 -169> 706 70<174.15 247.737> 756 21<-252.998 -129.003> 883 29<-319.474 -132.087>
 VStem: -396 79<545 613.315> -252 74<545.729 667.996> -129 44<737.18 767> -112 78<545 613.497>
 DStem2: -181 703 -157 696 0.775235 0.631673<4.56966 69.9104>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 606 11774 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -6 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFE uni0487
 Colour: ffff00
 EndChar
@@ -25795,12 +25789,12 @@ Flags: HW
 HStem: 545 237<-447.973 -375.38 -282 -265 -175 -147 -57 -36> 668 31<-235.971 -221> 677 21<-375 -240> 696 83<159.256 246.5> 756 21<-198.998 -75.0029> 891 29<-358.928 -147.951>
 VStem: -449 74<545.729 677 698 775.498> -342 78<545 613.315> -198 74<545.729 667.996> -75 43<736.547 767> -59 79<545 613.315>
 DStem2: -127 703 -103 696 0.775235 0.631673<4.56966 69.9104>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 830 -1 N 1 0 0 1 -23 0 2
 Refer: 607 11775 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uni2DFF uni0487
 Colour: ffff00
 EndChar
@@ -25813,12 +25807,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 539 46<-242.023 -143.138> 634 35<-173 -129> 744 62<66.3023 129.568> 766 21<-237.169 -179.783> 884 29<-295.54 -136.349>
 VStem: -332 65<636.032 732.805> -332 74<601.798 696.45>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 665 42612 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA674 uni0487
 Colour: ffff00
 EndChar
@@ -25832,12 +25826,12 @@ Flags: HW
 HStem: 545 237<-329.972 -257.38 -171.972 -99> 744 62<66.3023 129.568> 884 29<-295.54 -136.349>
 VStem: -331 74<545.729 598 629 775.498> -173 74<545.729 694 727 775.498>
 DStem2: -257 629 -257 598 0.650791 0.759257<0 104.018>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 0 0 2
 Refer: 666 42613 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA675 uni0487
 Colour: ffff00
 EndChar
@@ -25850,12 +25844,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 724 70<180.15 253.737> 734 20<-205.5 -193> 781 73<-301.506 -229.587 -196.506 -125.494> 901 29<-313.474 -126.087>
 VStem: -302 73<781.494 853.413> -252 74<545.729 746.73> -197 72<781.403 853.519>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 667 42614 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 0 18 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA676 uni0487
 Colour: ffff00
 EndChar
@@ -25869,12 +25863,12 @@ Flags: HW
 HStem: 541 33<-253.196 -205.824> 620 22<-202 -197> 706 70<178.15 251.737> 715 70<-152.623 -88.2754> 883 29<-315.474 -128.087>
 VStem: -254 66<545.302 574.721>
 DStem2: -261 759 -335 744 0.450264 -0.892896<-31.3591 129.755>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 668 42615 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -2 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA677 uni0487
 Colour: ffff00
 EndChar
@@ -25887,12 +25881,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 547 21<-222 -155.004> 651 22<-222 -194.098> 673 20<-154.5 -147> 744 62<5.30227 68.5682> 756 21<-333.29 -296.056> 884 29<-356.54 -197.349>
 VStem: -296 74<568 650.998 673.004 755.998> -155 84<552.5 606.306>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -61 0 2
 Refer: 669 42616 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA678 uni0487
 Colour: ffff00
 EndChar
@@ -25905,12 +25899,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 547 21<-297 -230.004> 547 235<-372.972 -300.007 -122.972 -50> 651 22<-296.988 -269.098> 673 20<-232.5 -225> 706 70<176.15 249.737> 883 29<-317.474 -130.087>
 VStem: -374 74<568 650.998 673.004 775.498> -230 81<552.5 606.306> -124 74<545.729 775.498>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 670 42617 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -4 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA679 uni0487
 Colour: ffff00
 EndChar
@@ -25923,12 +25917,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 547 21<-246 -180.004> 547 235<-318.973 -246.008> 651 22<-246 -218.098> 673 20<-178.5 -171> 744 62<21.3023 84.5682> 884 29<-340.54 -181.349>
 VStem: -320 74<568 650.998 673.004 775.498> -180 84<552.5 607.66>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 818 -1 N 1 0 0 1 -45 0 2
 Refer: 671 42618 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA67A uni0487
 Colour: ffff00
 EndChar
@@ -25941,12 +25935,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 541 60<-301.5 -263 -142.885 -107.898> 706 70<175.15 248.737> 883 29<-318.474 -131.087>
 VStem: -391 75<627.774 773.43> -250 75<642.852 774.55> -112 85<714.162 770.438>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 672 42619 N 1 0 0 1 0 0 2
 Refer: 501 1159 N 1 0 0 1 -5 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA67B uni0487
 Colour: ffff00
 EndChar
@@ -25959,12 +25953,12 @@ GlyphClass: 4
 Flags: HW
 HStem: 539 46<-173.399 -75.1376> 634 35<-104.144 -63.0608> 651 22<-304 -263.25> 706 70<166.15 239.737> 766 21<-169.656 -111.799> 883 29<-327.474 -140.087>
 VStem: -378 74<545.729 651 673 775.498> -264 65<673.216 731.961> -264 74<602.281 650.963>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
 Refer: 501 1159 N 1 0 0 1 -14 0 2
 Refer: 681 42655 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Simple Glyph Composition-1" uniA69F uni0487
 Colour: ffff00
 EndChar
@@ -26035,15 +26029,13 @@ Encoding: 1114114 -1 763
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 762 190
 VStem: -407 242
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 AnchorPoint: "TopCap" -215 762 mark 0
 LayerCount: 2
 Fore
 Refer: 694 63182 N 1 0 0 1 -430 0 2
-Validated: 32769
 Colour: ffff00
 EndChar
 
@@ -26052,15 +26044,13 @@ Encoding: 1114115 -1 764
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 HStem: 762 190
 VStem: -265 241
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 AnchorPoint: "TopCap" -215 762 mark 0
 LayerCount: 2
 Fore
 Refer: 691 63177 N 1 0 0 1 -430 0 2
-Validated: 32769
 Colour: ffff00
 EndChar
 
@@ -28244,7 +28234,6 @@ GlyphClass: 4
 Flags: HW
 HStem: 617 17<-335 -261.971 -169.808 -97> 815 62<75.3023 138.568> 955 29<-286.54 -127.349>
 VStem: -394 70<637.58 702.265> -253 74<769.623 873.404> -244 56<636.992 773.92> -236 40<539.002 635> -108 69<637.58 702.265>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
