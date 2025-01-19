@@ -2,7 +2,6 @@
 <glyph name="uni0486_gravecomb.cap" format="2">
   <advance width="0"/>
   <unicode hex="E004"/>
-  <anchor x="-215" y="752" name="_CyrTopCap"/>
   <outline>
     <contour>
       <point x="-437" y="840" type="curve" smooth="yes"/>

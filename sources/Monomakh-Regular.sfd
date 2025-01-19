@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1315915564
-ModificationTime: 1737190295
+ModificationTime: 1737276704
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -73,7 +73,7 @@ Lookup: 1 0 0 "Low Variants for Accents" { "Low Variants for Accents-1" ("low") 
 Lookup: 1 0 0 "Forms with a Short Descender for Enclosing Marks" { "Forms with a Short Descender for Enclosing Marks-1"  } []
 Lookup: 1 0 0 "Small Combining Letters for Vzmet" { "Small Combining Letters for Vzmet-1"  } []
 Lookup: 1 0 0 "Large Vzmet" { "Large Vzmet-1"  } []
-Lookup: 260 0 0 "'mark' Combining Mark Positioning" { "'mark' Positioning for Top Accents"  "'mark' Positioning for Acute"  "'mark' Positioning for Grave"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for High Marks"  "'mark' Positioning for Capital Accents"  "'mark' Positioning for Cyrillic Marks"  "'mark' Positioning for Kamora"  "'mark' Positioning for Cyrillic Yerik"  "'mark' Positioning for Cyrillic Capital Marks"  "'mark' Positioning for Double Marks"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Combining Mark Positioning" { "'mark' Positioning for Top Accents"  "'mark' Positioning for Acute"  "'mark' Positioning for Grave"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for High Marks"  "'mark' Positioning for Capital Accents"  "'mark' Positioning for Cyrillic Marks"  "'mark' Positioning for Kamora"  "'mark' Positioning for Cyrillic Yerik"  "'mark' Positioning for Double Marks"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark Positioning" { "'mkmk' Positioning for Vzmet"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning" { "'kern' Pairwise Kerning for Cyrillic" [312,31,6] "'kern' Class-based kerning for Cyrillic" [312,0,6] "'kern' Horizontal Kerning for Latin" [307,0,4] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Positioning for Enclosing Combining Marks" { "'kern' Positioning for Enclosing Combining Marks-1" [312,31,6] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
@@ -1306,16 +1306,16 @@ ShortTable: cvt  85
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/ofl"
 GaspTable: 3 10 8 19 5 65535 15 1
-OtfFeatName: 'ss15' 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8" 1033 "Add Pokrytie to Combining Letters when Appropriate"
-OtfFeatName: 'ss13' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +ACIETwQ6BD4EQAQ9BEMETgAi +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIELwRCBEwAIgAA " 1033 "Cyrillic Yat with Long Back Beak"
-OtfFeatName: 'ss12' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEIgAi" 1033 "Cyrillic Tverdo with Three Legs"
-OtfFeatName: 'ss11' 1049 "+BBEEQwQ6BDIEMAAA +ACIEKwAi +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5" 1033 "Connecting Cyrillic YERY"
-OtfFeatName: 'ss10' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEKQAi" 1033 "Use the Modern Form for Cyrillic Shcha"
-OtfFeatName: 'ss09' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +ACIEJwAi" 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che"
-OtfFeatName: 'ss08' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +ACIEFwAi +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA" 1033 "Use Sharp Cyrillic Ze instead of the Round Form"
-OtfFeatName: 'ss07' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA" 1033 "Display Cyrillic Decimal i with Dieresis"
-OtfFeatName: 'ss06' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5" 1033 "Display Cyrillic Decimal i with Dotaccent"
-OtfFeatName: 'ss01' 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA" 1033 "Combinations with Comma Below for Romanian"
+OtfFeatName: 'ss01' 1033 "Combinations with Comma Below for Romanian" 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA"
+OtfFeatName: 'ss06' 1033 "Display Cyrillic Decimal i with Dotaccent" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5"
+OtfFeatName: 'ss07' 1033 "Display Cyrillic Decimal i with Dieresis" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA"
+OtfFeatName: 'ss08' 1033 "Use Sharp Cyrillic Ze instead of the Round Form" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +BBcA +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA"
+OtfFeatName: 'ss09' 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCcA"
+OtfFeatName: 'ss10' 1033 "Use the Modern Form for Cyrillic Shcha" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCkA"
+OtfFeatName: 'ss11' 1033 "Connecting Cyrillic YERY" 1049 "+BBEEQwQ6BDIEMAAA +BCsA +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5"
+OtfFeatName: 'ss12' 1033 "Cyrillic Tverdo with Three Legs" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCIA"
+OtfFeatName: 'ss13' 1033 "Cyrillic Yat with Long Back Beak" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BE8EOgQ+BEAEPQRDBE4A +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BC8EQgRM"
+OtfFeatName: 'ss15' 1033 "Add Pokrytie to Combining Letters when Appropriate" 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1340,7 +1340,7 @@ Grid
   Named: "anchor"
 EndSplineSet
 TeXData: 1 0 0 270335 135168 90112 490496 -1048576 90112 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "DblMark" "'mark' Positioning for Double Marks" "Yerik" "'mark' Positioning for Cyrillic Yerik" "CyrTopCap" "'mark' Positioning for Cyrillic Capital Marks" "Kamora" "'mark' Positioning for Kamora" "Vzmet" "'mkmk' Positioning for Vzmet" "CyrMark" "'mark' Positioning for Cyrillic Marks" "HighMark" "'mark' Positioning for High Marks" "TopCap" "'mark' Positioning for Capital Accents" "Grave" "'mark' Positioning for Grave" "Acute" "'mark' Positioning for Acute" "Bottom" "'mark' Positioning for Bottom Accents" "Top" "'mark' Positioning for Top Accents"
+AnchorClass2: "DblMark" "'mark' Positioning for Double Marks" "Yerik" "'mark' Positioning for Cyrillic Yerik" "Kamora" "'mark' Positioning for Kamora" "Vzmet" "'mkmk' Positioning for Vzmet" "CyrMark" "'mark' Positioning for Cyrillic Marks" "HighMark" "'mark' Positioning for High Marks" "TopCap" "'mark' Positioning for Capital Accents" "Grave" "'mark' Positioning for Grave" "Acute" "'mark' Positioning for Acute" "Bottom" "'mark' Positioning for Bottom Accents" "Top" "'mark' Positioning for Top Accents"
 BeginChars: 1114155 858
 
 StartChar: space
@@ -11072,7 +11072,6 @@ VStem: 55 156<205.75 319.278 356 488.25>
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 657 762 basechar 0
 AnchorPoint: "Yerik" 480 742 basechar 0
-AnchorPoint: "CyrTopCap" 346 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11121,7 +11120,6 @@ VStem: 107 154<425.959 602.811> 453 133<482.25 598.625> 468 160<68.2646 254.007>
 AnchorPoint: "TopCap" 339 752 basechar 0
 AnchorPoint: "DblMark" 665 762 basechar 0
 AnchorPoint: "Yerik" 484 742 basechar 0
-AnchorPoint: "CyrTopCap" 340 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11161,7 +11159,6 @@ VStem: 98 137<29 664>
 AnchorPoint: "TopCap" 169 752 basechar 0
 AnchorPoint: "DblMark" 333 762 basechar 0
 AnchorPoint: "Yerik" 167 742 basechar 0
-AnchorPoint: "CyrTopCap" 167 752 basechar 0
 LayerCount: 2
 Fore
 Refer: 41 73 N 1 0 0 1 0 0 3
@@ -11411,7 +11408,6 @@ VStem: 98 137<29 664> 260 182<-167.984 -96> 337 28<-42.3319 -0.291069> 467 137<2
 AnchorPoint: "TopCap" 350 752 basechar 0
 AnchorPoint: "DblMark" 702 762 basechar 0
 AnchorPoint: "Yerik" 503 742 basechar 0
-AnchorPoint: "CyrTopCap" 351 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11465,7 +11461,6 @@ VStem: 51 72<314.092 414.722> 57 156<142.285 249.398> 118 33<65.7405 124.522> 39
 AnchorPoint: "TopCap" 447 752 basechar 0
 AnchorPoint: "DblMark" 635 762 basechar 0
 AnchorPoint: "Yerik" 518 742 basechar 0
-AnchorPoint: "CyrTopCap" 447 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11529,7 +11524,6 @@ VStem: 98 137<29 361 389.06 664> 418 132<29.46 288.576> 454 32<494.002 556.481>
 AnchorPoint: "TopCap" 309 752 basechar 0
 AnchorPoint: "DblMark" 608 762 basechar 0
 AnchorPoint: "Yerik" 428 742 basechar 0
-AnchorPoint: "CyrTopCap" 307 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11580,7 +11574,6 @@ DStem2: 226 445 224 411 0.795829 0.605522<0 45.89>
 AnchorPoint: "TopCap" 333 752 basechar 0
 AnchorPoint: "DblMark" 604 762 basechar 0
 AnchorPoint: "Yerik" 435 742 basechar 0
-AnchorPoint: "CyrTopCap" 331 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11634,7 +11627,6 @@ VStem: 98 137<29 664> 451 32<468.002 537.121>
 AnchorPoint: "TopCap" 308 752 basechar 0
 AnchorPoint: "DblMark" 554 762 basechar 0
 AnchorPoint: "Yerik" 423 742 basechar 0
-AnchorPoint: "CyrTopCap" 307 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11673,7 +11665,6 @@ DStem2: 122 29 97 -164 0.266715 0.963775<8.26818 555.118> 415 664 285 618 0.2196
 AnchorPoint: "TopCap" 343 752 basechar 0
 AnchorPoint: "DblMark" 681 762 basechar 0
 AnchorPoint: "Yerik" 506 742 basechar 0
-AnchorPoint: "CyrTopCap" 343 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11721,7 +11712,6 @@ VStem: 55 156<205.75 337.227 358 488.25>
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 657 762 basechar 0
 AnchorPoint: "Yerik" 480 742 basechar 0
-AnchorPoint: "CyrTopCap" 346 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11771,7 +11761,6 @@ CounterMasks: 1 0e
 AnchorPoint: "TopCap" 463 752 basechar 0
 AnchorPoint: "DblMark" 930 762 basechar 0
 AnchorPoint: "Yerik" 688 742 basechar 0
-AnchorPoint: "CyrTopCap" 465 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11842,7 +11831,6 @@ VStem: 122 138<484.203 589.131> 470 137<442.782 601.039> 477 150<73.7591 249.809
 AnchorPoint: "TopCap" 367 752 basechar 0
 AnchorPoint: "DblMark" 689 762 basechar 0
 AnchorPoint: "Yerik" 497 742 basechar 0
-AnchorPoint: "CyrTopCap" 367 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11895,7 +11883,6 @@ DStem2: 235 195 235 130 0.528156 0.849147<0 384.07>
 AnchorPoint: "TopCap" 351 752 basechar 0
 AnchorPoint: "DblMark" 702 762 basechar 0
 AnchorPoint: "Yerik" 503 742 basechar 0
-AnchorPoint: "CyrTopCap" 351 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11957,7 +11944,6 @@ VStem: 98 137<29 351 380 664> 408 154<539.603 664> 430 154<29 263.853>
 AnchorPoint: "TopCap" 322 752 basechar 0
 AnchorPoint: "DblMark" 661 762 basechar 0
 AnchorPoint: "Yerik" 478 742 basechar 0
-AnchorPoint: "CyrTopCap" 322 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12014,7 +12000,6 @@ DStem2: 467 664 343 524 0.104929 -0.99448<0 23.9694 126.216 624.045>
 AnchorPoint: "TopCap" 395 752 basechar 0
 AnchorPoint: "DblMark" 615 762 basechar 0
 AnchorPoint: "Yerik" 490 742 basechar 0
-AnchorPoint: "CyrTopCap" 396 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12059,7 +12044,6 @@ DStem2: 455 664 333 518 0.104929 -0.99448<0 30.3531 132.393 429.365 553.908 624.
 AnchorPoint: "TopCap" 560 752 basechar 0
 AnchorPoint: "DblMark" 957 762 basechar 0
 AnchorPoint: "Yerik" 742 742 basechar 0
-AnchorPoint: "CyrTopCap" 559 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12124,7 +12108,6 @@ DStem2: 235 568 235 503 0.528156 -0.849147<55.1946 439.264>
 AnchorPoint: "TopCap" 351 752 basechar 0
 AnchorPoint: "DblMark" 702 762 basechar 0
 AnchorPoint: "Yerik" 503 742 basechar 0
-AnchorPoint: "CyrTopCap" 351 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12171,7 +12154,6 @@ VStem: 55 156<205.75 488.25> 475 156<205.75 488.25>
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 686 762 basechar 0
 AnchorPoint: "Yerik" 487 742 basechar 0
-AnchorPoint: "CyrTopCap" 343 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12201,7 +12183,6 @@ VStem: 98 137<29 664> 467 137<29 664>
 AnchorPoint: "TopCap" 351 752 basechar 0
 AnchorPoint: "DblMark" 702 762 basechar 0
 AnchorPoint: "Yerik" 503 742 basechar 0
-AnchorPoint: "CyrTopCap" 351 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12241,7 +12222,6 @@ DStem2: 226 379 224 345 0.787505 0.616308<0 45.1009>
 AnchorPoint: "TopCap" 321 752 basechar 0
 AnchorPoint: "DblMark" 595 762 basechar 0
 AnchorPoint: "Yerik" 440 742 basechar 0
-AnchorPoint: "CyrTopCap" 320 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12284,7 +12264,6 @@ VStem: 55 156<205.75 488.25> 475 140<173.744 250 444 520.256>
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 691 762 basechar 0
 AnchorPoint: "Yerik" 500 742 basechar 0
-AnchorPoint: "CyrTopCap" 345 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12325,7 +12304,6 @@ CounterMasks: 1 1c
 AnchorPoint: "TopCap" 353 752 basechar 0
 AnchorPoint: "DblMark" 708 762 basechar 0
 AnchorPoint: "Yerik" 522 742 basechar 0
-AnchorPoint: "CyrTopCap" 354 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12410,7 +12388,6 @@ VStem: 47 150<240.226 467.542> 358 138<29 131 158.996 548.004 576 664> 657 151<2
 AnchorPoint: "TopCap" 427 752 basechar 0
 AnchorPoint: "DblMark" 854 762 basechar 0
 AnchorPoint: "Yerik" 660 742 basechar 0
-AnchorPoint: "CyrTopCap" 427 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12469,7 +12446,6 @@ DStem2: 230 664 84 664 0.491108 -0.871099<0 240.01 278.959 311.574 351.013 657.2
 AnchorPoint: "TopCap" 365 752 basechar 0
 AnchorPoint: "DblMark" 693 762 basechar 0
 AnchorPoint: "Yerik" 516 742 basechar 0
-AnchorPoint: "CyrTopCap" 366 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12519,7 +12495,6 @@ VStem: 98 137<29 664> 459 138<29 664> 620 32<-200.998 -111.717>
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 728 762 basechar 0
 AnchorPoint: "Yerik" 529 742 basechar 0
-AnchorPoint: "CyrTopCap" 348 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12563,7 +12538,6 @@ VStem: 74 138<371.42 664> 396 138<29 317 343.837 664>
 AnchorPoint: "TopCap" 307 752 basechar 0
 AnchorPoint: "DblMark" 632 762 basechar 0
 AnchorPoint: "Yerik" 445 742 basechar 0
-AnchorPoint: "CyrTopCap" 306 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12609,7 +12583,6 @@ VStem: 98 137<29 664> 418 138<29 664> 738 138<29 664>
 AnchorPoint: "TopCap" 488 752 basechar 0
 AnchorPoint: "DblMark" 974 762 basechar 0
 AnchorPoint: "Yerik" 652 742 basechar 0
-AnchorPoint: "CyrTopCap" 487 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12656,7 +12629,6 @@ VStem: 98 137<29 664> 396 182<-167.984 -97> 418 138<29 664> 473 27<-40.1649 -0.5
 AnchorPoint: "TopCap" 488 752 basechar 0
 AnchorPoint: "DblMark" 974 762 basechar 0
 AnchorPoint: "Yerik" 652 742 basechar 0
-AnchorPoint: "CyrTopCap" 487 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12720,7 +12692,6 @@ VStem: 71 32<468.002 540.324> 310 137<29 368 396.898 664> 642 131<29.5996 296.57
 AnchorPoint: "TopCap" 373 752 basechar 0
 AnchorPoint: "DblMark" 809 762 basechar 0
 AnchorPoint: "Yerik" 574 742 basechar 0
-AnchorPoint: "CyrTopCap" 374 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12771,7 +12742,6 @@ VStem: 98 137<29 368 396.898 664> 430 132<29.5996 296.576> 673 137<29 664>
 AnchorPoint: "TopCap" 460 752 basechar 0
 AnchorPoint: "DblMark" 908 762 basechar 0
 AnchorPoint: "Yerik" 661 742 basechar 0
-AnchorPoint: "CyrTopCap" 460 752 basechar 0
 LayerCount: 2
 Fore
 Refer: 41 73 N 1 0 0 1 575 0 2
@@ -12789,7 +12759,6 @@ VStem: 98 137<29 368 396.898 664> 430 132<29.5996 296.576>
 AnchorPoint: "TopCap" 173 753 basechar 0
 AnchorPoint: "DblMark" 597 762 basechar 0
 AnchorPoint: "Yerik" 367 742 basechar 0
-AnchorPoint: "CyrTopCap" 173 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12833,7 +12802,6 @@ VStem: 113 138<485.344 585.812> 489 157<197.905 324.688 348 512.046>
 AnchorPoint: "TopCap" 356 752 basechar 0
 AnchorPoint: "DblMark" 700 762 basechar 0
 AnchorPoint: "Yerik" 502 742 basechar 0
-AnchorPoint: "CyrTopCap" 358 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12882,7 +12850,6 @@ VStem: 98 137<29 347 376 664> 342 156<205.75 347 376 491.579> 762 156<205.75 488
 AnchorPoint: "TopCap" 477 752 basechar 0
 AnchorPoint: "DblMark" 973 762 basechar 0
 AnchorPoint: "Yerik" 696 742 basechar 0
-AnchorPoint: "CyrTopCap" 475 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12926,7 +12893,6 @@ HStem: 0 29<25 69 220 265 358 409 547 598> 348 29<303.516 409> 664 29<266.265 40
 VStem: 69 151<29 188.241> 81 147<443.71 619.346> 409 138<29 348 377 664>
 AnchorPoint: "TopCap" 372 752 basechar 0
 AnchorPoint: "Yerik" 484 742 basechar 0
-AnchorPoint: "CyrTopCap" 371 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14855,7 +14821,6 @@ VStem: 64 141<243.79 564.42> 415 141<232.493 580.277> 836 106<260.057 505.917>
 AnchorPoint: "TopCap" 525 752 basechar 0
 AnchorPoint: "DblMark" 1007 762 basechar 0
 AnchorPoint: "Yerik" 739 742 basechar 0
-AnchorPoint: "CyrTopCap" 526 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15084,7 +15049,6 @@ VStem: 98 137<29 339 368 664> 343 156<208.717 337.227 368 494.003>
 AnchorPoint: "TopCap" 476 752 basechar 0
 AnchorPoint: "DblMark" 942 762 basechar 0
 AnchorPoint: "Yerik" 689 742 basechar 0
-AnchorPoint: "CyrTopCap" 477 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15199,7 +15163,6 @@ Flags: W
 HStem: 0 29<12 54 202.407 247 287 337 475 526 571 622.828 759 811> 275 29<274.141 337 475 525.016> 664 29<299 370.334 528.752 584>
 VStem: 50 146<31.6579 207.295> 337 138<29 276.776> 371 157<601.43 663.974> 630 142<29.5018 235.165> 630 129<29.988 131.398>
 AnchorPoint: "TopCap" 438 752 basechar 0
-AnchorPoint: "CyrTopCap" 439 752 basechar 0
 AnchorPoint: "Yerik" 636 742 basechar 0
 AnchorPoint: "DblMark" 832 762 basechar 0
 LayerCount: 2
@@ -15324,7 +15287,6 @@ VStem: 98 137<29 316 346 664> 359 145<31.6579 208.323> 646 138<29 276.776> 680 1
 AnchorPoint: "TopCap" 494 752 basechar 0
 AnchorPoint: "DblMark" 1141 762 basechar 0
 AnchorPoint: "Yerik" 806 742 basechar 0
-AnchorPoint: "CyrTopCap" 494 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15475,7 +15437,6 @@ DStem2: 490 403 351 381 0.643055 -0.76582<-316.121 -72.5366> 521 399 550 386 0.6
 AnchorPoint: "TopCap" 474 752 basechar 0
 AnchorPoint: "DblMark" 901 762 basechar 0
 AnchorPoint: "Yerik" 676 742 basechar 0
-AnchorPoint: "CyrTopCap" 471 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15604,7 +15565,6 @@ DStem2: 792 404 645 392 0.64526 -0.763963<-315.336 -85.6856> 823 400 852 386 0.6
 AnchorPoint: "TopCap" 642 752 basechar 0
 AnchorPoint: "DblMark" 1203 762 basechar 0
 AnchorPoint: "Yerik" 913 742 basechar 0
-AnchorPoint: "CyrTopCap" 643 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15755,7 +15715,6 @@ VStem: 35 48<-83.5231 10.8699> 73 129<478.907 580.87> 90 141<223.272 314.962> 42
 DStem2: 269 820 181 805 0.550842 -0.834609<-33.2818 83.8615>
 AnchorPoint: "TopCap" 318 890 basechar 0
 AnchorPoint: "Yerik" 569 742 basechar 0
-AnchorPoint: "CyrTopCap" 319 890 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15894,7 +15853,6 @@ VStem: 369 138<29 210 240 817>
 DStem2: 213 693 89 650 0.267973 -0.963426<0 464.799> 557 240 587 210 0.191466 0.981499<0 354.175>
 AnchorPoint: "TopCap" 436 890 basechar 0
 AnchorPoint: "Yerik" 685 742 basechar 0
-AnchorPoint: "CyrTopCap" 438 890 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15999,7 +15957,6 @@ VStem: 33 156<205.75 337 357 488.25> 453 156<205.75 337 357 488.25>
 AnchorPoint: "TopCap" 319 753 basechar 0
 AnchorPoint: "DblMark" 643 762 basechar 0
 AnchorPoint: "Yerik" 465 742 basechar 0
-AnchorPoint: "CyrTopCap" 321 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16099,7 +16056,6 @@ DStem2: 224 664 84 664 0.206308 -0.978487<0 634.667> 379 43 408 0 0.173093 0.984
 AnchorPoint: "TopCap" 402 752 basechar 0
 AnchorPoint: "DblMark" 745 762 basechar 0
 AnchorPoint: "Yerik" 569 742 basechar 0
-AnchorPoint: "CyrTopCap" 402 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16250,7 +16206,6 @@ CounterMasks: 1 0e
 AnchorPoint: "TopCap" 682 750 basechar 0
 AnchorPoint: "DblMark" 1082 762 basechar 0
 AnchorPoint: "Yerik" 854 742 basechar 0
-AnchorPoint: "CyrTopCap" 682 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16560,7 +16515,6 @@ VStem: 55 156<205.75 488.25> 460 138<-151 11 54.2361 189.996> 475 140<444 520.25
 AnchorPoint: "TopCap" 346 752 basechar 0
 AnchorPoint: "DblMark" 691 762 basechar 0
 AnchorPoint: "Yerik" 500 742 basechar 0
-AnchorPoint: "CyrTopCap" 345 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17131,7 +17085,6 @@ DStem2: 235 568 235 503 0.528156 -0.849147<55.1946 439.264>
 AnchorPoint: "TopCap" 408 752 basechar 0
 AnchorPoint: "DblMark" 923 762 basechar 0
 AnchorPoint: "Yerik" 659 742 basechar 0
-AnchorPoint: "CyrTopCap" 408 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17288,7 +17241,6 @@ Flags: W
 HStem: -15 30<273.194 387.873> 280 121<373.419 433.997> 330 29<273.261 355.464> 680 29<273.919 372.419>
 VStem: 63 151<84.2053 249.809> 83 138<442.782 601.039> 431 137<483.929 589.131> 435 167<94.2811 184.208>
 AnchorPoint: "TopCap" 326 752 basechar 0
-AnchorPoint: "CyrTopCap" 326 752 basechar 0
 AnchorPoint: "Yerik" 487 742 basechar 0
 AnchorPoint: "DblMark" 645 762 basechar 0
 LayerCount: 2
@@ -20306,7 +20258,6 @@ DStem2: 65 35 239 68 0.491522 0.870865<88.8889 705.668>
 AnchorPoint: "TopCap" 329 752 basechar 0
 AnchorPoint: "DblMark" 596 762 basechar 0
 AnchorPoint: "Yerik" 451 742 basechar 0
-AnchorPoint: "CyrTopCap" 327 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20397,7 +20348,6 @@ DStem2: 65 35 239 68 0.491522 0.870865<88.8889 376.238 399.051 705.668>
 AnchorPoint: "TopCap" 327 752 basechar 0
 AnchorPoint: "DblMark" 596 762 basechar 0
 AnchorPoint: "Yerik" 456 742 basechar 0
-AnchorPoint: "CyrTopCap" 327 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20578,7 +20528,6 @@ VStem: 90 138<83.7754 664>
 AnchorPoint: "TopCap" 162 746 basechar 0
 AnchorPoint: "DblMark" 459 762 basechar 0
 AnchorPoint: "Yerik" 162 742 basechar 0
-AnchorPoint: "CyrTopCap" 162 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20732,7 +20681,6 @@ DStem2: 262 664 114 664 0.462171 -0.886791<0 277.791> 419 357 430 303 0.305428 0
 AnchorPoint: "TopCap" 412 752 basechar 0
 AnchorPoint: "DblMark" 728 762 basechar 0
 AnchorPoint: "Yerik" 560 742 basechar 0
-AnchorPoint: "CyrTopCap" 413 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20831,7 +20779,6 @@ VStem: 39.8281 156.25<181.067 439.628> 385.531 108.887<437.548 540.725> 709.75 9
 AnchorPoint: "TopCap" 605 752 basechar 0
 AnchorPoint: "DblMark" 1203 762 basechar 0
 AnchorPoint: "Yerik" 1049 742 basechar 0
-AnchorPoint: "CyrTopCap" 607 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20920,7 +20867,6 @@ HStem: 0 29<188 238 376 567.627> 472 21G<63 94.5> 664 29<125.578 238 376 427>
 VStem: 18 87<552.784 631.299> 238 138<29 368 396.898 664> 570 132<29.46 296.576>
 AnchorPoint: "TopCap" 312 752 basechar 0
 AnchorPoint: "Yerik" 508 742 basechar 0
-AnchorPoint: "CyrTopCap" 313 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21019,7 +20965,6 @@ VStem: 71 32<468.002 540.324> 310 137<29 368 396.898 664> 642 131<29.5996 296.57
 AnchorPoint: "TopCap" 650 752 basechar 0
 AnchorPoint: "DblMark" 1120 762 basechar 0
 AnchorPoint: "Yerik" 862 742 basechar 0
-AnchorPoint: "CyrTopCap" 650 752 basechar 0
 LayerCount: 2
 Fore
 Refer: 41 73 N 1 0 0 1 787 0 2
@@ -21056,7 +21001,6 @@ HStem: 0 29<47 98 235 286 519 569 707 898.627> 370 29<235 569> 664 29<47 98 235 
 VStem: 98 137<29 370 399 664> 387 32<494.002 556.481> 569 138<29 356 400.424 664 693 835.994> 891 32<494.002 556.481> 901 132<29.46 285.576>
 AnchorPoint: "TopCap" 318 752 basechar 0
 AnchorPoint: "Yerik" 820 742 basechar 0
-AnchorPoint: "CyrTopCap" 319 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21207,7 +21151,6 @@ VStem: 55 156<205.75 488.25> 475 156<205.75 347 376 491.579> 737 138<29 347 376 
 AnchorPoint: "TopCap" 508 752 basechar 0
 AnchorPoint: "DblMark" 973 762 basechar 0
 AnchorPoint: "Yerik" 716 742 basechar 0
-AnchorPoint: "CyrTopCap" 506 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21293,7 +21236,6 @@ VStem: 98 137<29 577 606 664> 343 72<314.092 414.722> 349 156<142.285 249.398> 4
 AnchorPoint: "TopCap" 462 752 basechar 0
 AnchorPoint: "DblMark" 927 762 basechar 0
 AnchorPoint: "Yerik" 671 742 basechar 0
-AnchorPoint: "CyrTopCap" 463 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21429,7 +21371,6 @@ VStem: 50 146<31.6579 208.443> 371 157<601.43 663.974> 630 142<29.5018 231.741> 
 AnchorPoint: "TopCap" 442 752 basechar 0
 AnchorPoint: "DblMark" 832 762 basechar 0
 AnchorPoint: "Yerik" 636 742 basechar 0
-AnchorPoint: "CyrTopCap" 439 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21539,7 +21480,6 @@ DStem2: 528 438 389 416 0.695948 -0.718092<-284.801 -80.9388> 560 435 584 417 0.
 AnchorPoint: "TopCap" 507 752 basechar 0
 AnchorPoint: "DblMark" 978 762 basechar 0
 AnchorPoint: "Yerik" 737 742 basechar 0
-AnchorPoint: "CyrTopCap" 509 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21683,7 +21623,6 @@ VStem: 98 137<29 253 282 664> 359 145<31.6579 208.044> 680 157<601.43 663.941> 9
 AnchorPoint: "TopCap" 496 752 basechar 0
 AnchorPoint: "DblMark" 1141 762 basechar 0
 AnchorPoint: "Yerik" 806 742 basechar 0
-AnchorPoint: "CyrTopCap" 494 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21820,7 +21759,6 @@ CounterMasks: 1 1c
 AnchorPoint: "TopCap" 458 752 basechar 0
 AnchorPoint: "DblMark" 917 762 basechar 0
 AnchorPoint: "Yerik" 681 742 basechar 0
-AnchorPoint: "CyrTopCap" 458 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21997,7 +21935,6 @@ DStem2: 122 29 97 -164 0.266715 0.963775<8.26818 555.118> 415 664 285 618 0.2196
 AnchorPoint: "TopCap" 426 752 basechar 0
 AnchorPoint: "DblMark" 743 762 basechar 0
 AnchorPoint: "Yerik" 573 742 basechar 0
-AnchorPoint: "CyrTopCap" 426 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22113,7 +22050,6 @@ DStem2: 467 664 343 524 0.104929 -0.99448<0 23.9694 126.216 624.045>
 AnchorPoint: "TopCap" 446 752 basechar 0
 AnchorPoint: "DblMark" 787 762 basechar 0
 AnchorPoint: "Yerik" 610 742 basechar 0
-AnchorPoint: "CyrTopCap" 448 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22215,7 +22151,6 @@ DStem2: 455 664 333 518 0.104929 -0.99448<0 30.3531 132.393 429.365 553.908 624.
 AnchorPoint: "TopCap" 638 752 basechar 0
 AnchorPoint: "DblMark" 1129 762 basechar 0
 AnchorPoint: "Yerik" 874 742 basechar 0
-AnchorPoint: "CyrTopCap" 635 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22353,7 +22288,6 @@ CounterMasks: 1 1c
 AnchorPoint: "TopCap" 397 751 basechar 0
 AnchorPoint: "DblMark" 797 762 basechar 0
 AnchorPoint: "Yerik" 570 742 basechar 0
-AnchorPoint: "CyrTopCap" 398 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22426,7 +22360,6 @@ VStem: 55 156<184.971 509.145> 316 157<294.586 399.414> 460 162<20.0064 80.1145 
 AnchorPoint: "TopCap" 682 752 basechar 0
 AnchorPoint: "DblMark" 1082 762 basechar 0
 AnchorPoint: "Yerik" 854 742 basechar 0
-AnchorPoint: "CyrTopCap" 682 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22528,7 +22461,6 @@ VStem: 55 156<215.221 478.857> 320 157<294.586 399.414> 586 156<156.506 537.811>
 AnchorPoint: "TopCap" 664 752 basechar 0
 AnchorPoint: "DblMark" 1328 762 basechar 0
 AnchorPoint: "Yerik" 969 742 basechar 0
-AnchorPoint: "CyrTopCap" 664 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -23623,7 +23555,6 @@ CounterMasks: 1 38
 AnchorPoint: "TopCap" 552 752 basechar 0
 AnchorPoint: "DblMark" 1105 762 basechar 0
 AnchorPoint: "Yerik" 802 742 basechar 0
-AnchorPoint: "CyrTopCap" 553 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -23722,7 +23653,6 @@ VStem: 55 156<186.691 327 368 508.071> 460 162<20.0064 80.8108 613.782 674.186> 
 AnchorPoint: "TopCap" 680 752 basechar 0
 AnchorPoint: "DblMark" 1082 762 basechar 0
 AnchorPoint: "Yerik" 854 742 basechar 0
-AnchorPoint: "CyrTopCap" 682 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26092,7 +26022,6 @@ GlyphClass: 4
 Flags: W
 HStem: 781 63<-371.378 -58.8118>
 VStem: -380 330<781.677 843.773>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 AnchorPoint: "TopCap" -215 762 mark 0
 LayerCount: 2
 Fore
@@ -26204,7 +26133,6 @@ GlyphClass: 4
 Flags: W
 HStem: 764 172
 DStem2: -435 936 -485 896 0.755033 -0.655687<-23.0643 212.856> -249 936 -299 896 0.750418 -0.660964<-23.1099 211.781>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 Refer: 699 63187 N 1 0 0 1 -430 0 2
@@ -26220,7 +26148,6 @@ GlyphClass: 4
 Flags: W
 HStem: 883 37<-259.271 -170.052>
 VStem: -379 92<769.763 846.384> -139 88<769.633 846.384>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 Refer: 698 63186 N 1 0 0 1 -430 0 2
@@ -26269,7 +26196,6 @@ DStem2: 805 664 667 664 0.232874 -0.972507<0 638.858> 983 43 1029 92 0.185097 0.
 AnchorPoint: "TopCap" 996 752 basechar 0
 AnchorPoint: "DblMark" 1328 762 basechar 0
 AnchorPoint: "Yerik" 1146 742 basechar 0
-AnchorPoint: "CyrTopCap" 996 752 basechar 0
 LayerCount: 2
 Fore
 Refer: 401 1059 N 1 0 0 1 583 0 2
@@ -26285,7 +26211,6 @@ GlyphClass: 4
 Flags: W
 HStem: 890 64<-256.129 -154.688>
 VStem: -323 55<792.213 877.103>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26313,7 +26238,6 @@ GlyphClass: 4
 Flags: W
 HStem: 890 64<-280.059 -178.651>
 VStem: -167 56<792.213 878.638>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26413,7 +26337,6 @@ GlyphClass: 4
 Flags: W
 HStem: 762 26<-288.828 -247.324> 916 38<-305.901 -233.277>
 VStem: -383 67<805.044 909.351> -207 87<898.278 946.152>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26450,7 +26373,6 @@ GlyphClass: 4
 Flags: W
 HStem: 894 60<-267.138 -188.764>
 VStem: -338 63<794.78 887.783>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26487,7 +26409,6 @@ GlyphClass: 4
 Flags: W
 HStem: 860 71<-394.652 -308.629>
 VStem: -437 35<800.562 850.334> -291 39<764.988 840.5> -246 87<898.278 946.152>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26522,7 +26443,6 @@ GlyphClass: 4
 Flags: W
 HStem: 890 64<-364.213 -270.769>
 VStem: -260 56<792.057 879.316>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26687,7 +26607,6 @@ GlyphClass: 4
 Flags: W
 HStem: 727 74<-278.12 -151.88>
 VStem: -333 43<814.914 897.319> -140 43<814.914 896.325>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 Refer: 697 63185 N 1 0 0 1 -430 0 2
@@ -26703,7 +26622,6 @@ GlyphClass: 4
 Flags: W
 HStem: 785 113<-383.66 -281.066 -149.66 -46.3395>
 VStem: -389 113<790.34 892.934> -155 114<790.34 892.934>
-AnchorPoint: "CyrTopCap" -215 752 mark 0
 LayerCount: 2
 Fore
 Refer: 799 -1 N 1 0 0 1 -430 0 2
@@ -26719,7 +26637,6 @@ GlyphClass: 4
 Flags: W
 HStem: 763 102<-391.027 -296.973 -129.027 -34.9734>
 VStem: -395 102<766.973 861.027> -133 102<766.973 861.027>
-AnchorPoint: "CyrTopCap" -205 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26755,7 +26672,6 @@ GlyphClass: 4
 Flags: W
 HStem: 763 102<-391.027 -296.973 -129.027 -34.9734>
 VStem: -395 102<766.973 861.027> -133 102<766.973 861.027>
-AnchorPoint: "CyrTopCap" -221 752 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26851,7 +26767,6 @@ GlyphClass: 4
 Flags: W
 HStem: 556 131<-272.882 -157.78>
 VStem: -281 131<563.78 678.882>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -27194,7 +27109,6 @@ VStem: 60 32<437.001 498.755> 271 137<29 356 385.898 606 636 693> 592 33<437.007
 AnchorPoint: "TopCap" 341 752 basechar 0
 AnchorPoint: "DblMark" 786 762 basechar 0
 AnchorPoint: "Yerik" 538 742 basechar 0
-AnchorPoint: "CyrTopCap" 341 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27651,7 +27565,6 @@ CounterMasks: 1 1c
 AnchorPoint: "TopCap" 359 752 basechar 0
 AnchorPoint: "DblMark" 718 762 basechar 0
 AnchorPoint: "Yerik" 526 742 basechar 0
-AnchorPoint: "CyrTopCap" 359 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27779,7 +27692,6 @@ HStem: 542 84<-339.766 -314.613 -108.994 -92.4211> 605 21<-293.993 -185.001> 732
 VStem: -367 310<605.161 625.996>
 DStem2: -312 646 -287 649 0.513194 0.858273<-2.65663 113.816> -162 757 -229 727 0.437285 -0.899323<-8.97903 102.229>
 AnchorPoint: "Vzmet" -215 811 basemark 0
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -27831,7 +27743,6 @@ Flags: W
 HStem: 529 67<-412.574 -339.023 -90.9765 -17.4263> 651 30<-261.832 -252 -178 -168.157> 748 28<-390.998 -328.573 -100.72 -38.5018>
 VStem: -430 61<691.845 747.985> -271 112<633.373 706.124> -252 74<535.729 651 681 765.492> -62 62<689.888 747.985>
 AnchorPoint: "Vzmet" -215 840 basemark 0
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -27891,7 +27802,6 @@ Flags: W
 HStem: 531 67<-336.056 -287.907> 639 48<-269.329 -205.235> 655 22<-226.526 -187.956> 767 21<-248.532 -193.958>
 VStem: -345 54<536.339 560.372> -337 74<710.731 759.973> -181 75<687.915 763.464> -166 76<566.527 644.523>
 AnchorPoint: "Vzmet" -215 811 basemark 0
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -27938,7 +27848,6 @@ Flags: W
 HStem: 544 79<-430.193 -380.177 -189 -174.452> 544 45<-397.214 -344.482>
 DStem2: -239 750 -291 690 0.354227 -0.935159<37.6898 141.152> -71 750 -126 699 0.349209 -0.937045<28.5828 196.41>
 AnchorPoint: "Vzmet" -198 811 basemark 0
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -27995,7 +27904,6 @@ Flags: W
 HStem: 686 95<-334.564 -310.542 -119.458 -95.3435> 756 21<-292.207 -252.106 -177.894 -137.793>
 VStem: -252 74<545.729 755.998>
 AnchorPoint: "Vzmet" -215 811 basemark 0
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -28251,7 +28159,6 @@ GlyphClass: 4
 Flags: W
 HStem: 560 109<-411.904 -320.008> 637 32<-318.25 -0.0183105>
 VStem: -415 95<563.662 637.641>
-AnchorPoint: "CyrTopCap" -215 527 mark 0
 AnchorPoint: "CyrMark" -215 537 mark 0
 LayerCount: 2
 Fore
@@ -28280,7 +28187,6 @@ GlyphClass: 4
 Flags: W
 HStem: 642 33<-414 -97.613> 643 109<-95.9919 -3.10536>
 VStem: -96 96<673.633 748.338>
-AnchorPoint: "CyrTopCap" -215 536 mark 0
 AnchorPoint: "CyrMark" -215 546 mark 0
 LayerCount: 2
 Fore
@@ -28633,7 +28539,6 @@ VWidth: 0
 GlyphClass: 4
 Flags: W
 HStem: 643 37<-398.555 4.05859>
-AnchorPoint: "CyrTopCap" -215 535 mark 0
 AnchorPoint: "CyrMark" -215 545 mark 0
 LayerCount: 2
 Fore
@@ -28975,7 +28880,6 @@ Flags: W
 HStem: 542 84<-339.766 -314.613 -108.994 -92.4211> 605 21<-293.993 -185.001> 732 54<-249.457 -220.949>
 DStem2: -312 646 -287 649 0.513194 0.858273<-2.65663 113.816> -162 757 -229 727 0.437285 -0.899323<-8.97903 102.229> -55 783 -118 771 0.481919 -0.876216<-14.8541 130.949> 60 786 -3 774 0.481919 -0.876216<-15.0996 130.919>
 AnchorPoint: "CyrMark" -113 515 mark 0
-AnchorPoint: "CyrTopCap" -113 505 mark 0
 AnchorPoint: "Vzmet" -122.688 807 basemark 0
 LayerCount: 2
 Fore
@@ -29044,7 +28948,6 @@ VStem: 59.5703 156.25<201.32 495.98> 349.609 110.352<560.303 644.491> 412.109 15
 AnchorPoint: "TopCap" 488 752 basechar 0
 AnchorPoint: "DblMark" 980 762 basechar 0
 AnchorPoint: "Yerik" 706 742 basechar 0
-AnchorPoint: "CyrTopCap" 490 752 basechar 0
 LayerCount: 2
 Fore
 SplineSet

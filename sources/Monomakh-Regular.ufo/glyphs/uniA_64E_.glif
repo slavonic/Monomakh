@@ -4,7 +4,6 @@
   <unicode hex="A64E"/>
   <anchor x="312" y="752" name="TopCap"/>
   <anchor x="508" y="742" name="Yerik"/>
-  <anchor x="313" y="752" name="CyrTopCap"/>
   <outline>
     <contour>
       <point x="18" y="559" type="curve" smooth="yes"/>

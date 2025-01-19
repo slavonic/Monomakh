@@ -21,12 +21,12 @@ FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
 
-LINE_ONE = "Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де на совѣ́тъ нечести́выхъ"
-LINE_THREE = "Бл҃же́нъ мꙋ́жь, и҆́же не́йде на сᲂвѣ́тъ нечести́выхъ"
-LINE_THREE = "Феричи́т꙽ бърба́тꙋл̑ ка́реле на́ꙋ ꙋ҆мбла́т ꙟⷩ҇ ᲃфа́тꙋл̑ некрединчо́шилоⷬ҇"
-LINE_FOUR = "Fericit bărbatul, care n-a umblat în sfatul necredincioșilor"
+LINE_ONE = "Бл҃же́нъ мꙋ́жъ, и҆́же не и҆́де"
+LINE_TWO = "Бл҃же́нъ мꙋ́жь, и҆́же не́йде"
+LINE_THREE = "Феричи́т꙽ бърба́тꙋл̑ ка́реле на́ꙋ" # ꙋ҆мбла́т ꙟⷩ҇ ᲃфа́тꙋл̑ некрединчо́шилоⷬ҇"
+LINE_FOUR = "Fericit bărbatul, care n-a"
 
-BIG_TEXT_FONT_SIZE = 160
+BIG_TEXT_FONT_SIZE = 140
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.45
 

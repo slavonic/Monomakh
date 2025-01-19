@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0307.cyrl" format="2">
   <advance width="0"/>
-  <anchor x="-215" y="527" name="_CyrTopCap"/>
   <anchor x="-215" y="537" name="_CyrMark"/>
   <outline>
     <component base="dotaccent.cyrl" xOffset="-430"/>

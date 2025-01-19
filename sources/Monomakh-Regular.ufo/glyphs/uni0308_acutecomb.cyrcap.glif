@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308_acutecomb.cyrcap" format="2">
   <advance width="0"/>
-  <anchor x="-221" y="752" name="_CyrTopCap"/>
   <outline>
     <contour>
       <point x="-395" y="814" type="curve" smooth="yes"/>

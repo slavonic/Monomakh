@@ -3,7 +3,6 @@
   <advance width="644"/>
   <unicode hex="0510"/>
   <anchor x="326" y="752" name="TopCap"/>
-  <anchor x="326" y="752" name="CyrTopCap"/>
   <anchor x="487" y="742" name="Yerik"/>
   <anchor x="645" y="762" name="DblMark"/>
   <outline>

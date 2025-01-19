@@ -4,7 +4,6 @@
   <unicode hex="042F"/>
   <anchor x="372" y="752" name="TopCap"/>
   <anchor x="484" y="742" name="Yerik"/>
-  <anchor x="371" y="752" name="CyrTopCap"/>
   <outline>
     <contour>
       <point x="25" y="0" type="line"/>

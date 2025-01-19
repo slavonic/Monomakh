@@ -5,7 +5,6 @@
   <anchor x="426" y="752" name="TopCap"/>
   <anchor x="743" y="762" name="DblMark"/>
   <anchor x="573" y="742" name="Yerik"/>
-  <anchor x="426" y="752" name="CyrTopCap"/>
   <outline>
     <contour>
       <point x="12" y="20" type="curve" smooth="yes"/>

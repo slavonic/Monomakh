@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncmb.cap" format="2">
   <advance width="0"/>
-  <anchor x="-215" y="752" name="_CyrTopCap"/>
   <anchor x="-215" y="762" name="_TopCap"/>
   <outline>
     <component base="Macron" xOffset="-430"/>

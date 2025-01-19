@@ -5,7 +5,6 @@
   <anchor x="460" y="752" name="TopCap"/>
   <anchor x="908" y="762" name="DblMark"/>
   <anchor x="661" y="742" name="Yerik"/>
-  <anchor x="460" y="752" name="CyrTopCap"/>
   <outline>
     <component base="I" xOffset="575"/>
     <component base="afii10046"/>
