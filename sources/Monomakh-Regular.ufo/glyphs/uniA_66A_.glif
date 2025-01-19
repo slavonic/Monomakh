@@ -2,6 +2,7 @@
 <glyph name="uniA66A" format="2">
   <advance width="1082"/>
   <unicode hex="A66A"/>
+  <anchor x="684" y="752" name="CyrMark"/>
   <anchor x="682" y="752" name="TopCap"/>
   <anchor x="1082" y="762" name="DblMark"/>
   <anchor x="854" y="742" name="Yerik"/>

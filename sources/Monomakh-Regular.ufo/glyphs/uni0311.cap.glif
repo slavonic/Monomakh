@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0311.cap" format="2">
   <advance width="0"/>
+  <anchor x="-215" y="767" name="_CyrMark"/>
   <outline>
     <component base="cyrFlex" xOffset="-430"/>
   </outline>

@@ -2,6 +2,7 @@
 <glyph name="uni0486_acutecomb.cap" format="2">
   <advance width="0"/>
   <unicode hex="E002"/>
+  <anchor x="-214" y="758" name="_CyrMark"/>
   <outline>
     <contour>
       <point x="-397" y="863" type="curve" smooth="yes"/>

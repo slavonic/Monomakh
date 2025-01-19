@@ -488,8 +488,8 @@ lookup ccmpCapitalAccentsChained {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_match_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
-	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+    @cc18_match_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
+	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
 	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
 	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
@@ -512,8 +512,8 @@ lookup ccmpCapitalAccentsChained {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_back_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
-	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+    @cc18_back_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
+	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
 	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
 	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
@@ -536,13 +536,13 @@ lookup ccmpCapitalAccentsChained {
 	\uniA65E \uniA660 \uniA662 \uniA664 \uniA666 \uniA668 \uniA66A \uniA66C 
 	\uniA698 \uniA69A \afii10146.low \uni0478.cap \afii10041.old 
 	\afii10043.modern \uni0460.alt ];
-    @cc18_ahead_2 = [\gravecomb \acutecomb \circumflexcmb \macroncmb \brevecmb \uni0307 \uni0308 
-	\uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
+    @cc18_ahead_2 = [\gravecomb \acutecomb \circumflexcmb \tildecomb \macroncmb \brevecmb \uni0307 
+	\uni0308 \uni030A \uni030B \uni030C \uni030F \uni0311 \uni0485 \uni0486 
 	\uni0486_acutecomb \uni0486_gravecomb \uni0485_acutecomb 
 	\uni0485_gravecomb \uni0308_acutecomb \uni0308_gravecomb 
 	\brevecmb.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl 
 	\uni0308_acutecomb.cyrl ];
-    sub @cc18_back_1 @cc18_match_2'  by [\gravecomb.cap \acutecomb.cap \circumflexcmb.cap \macroncmb.cap \brevecmb.cap \uni0307.cap \uni0308.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0485.cap \uni0486.cap \uni0486_acutecomb.cap \uni0486_gravecomb.cap \uni0485_acutecomb.cap \uni0485_gravecomb.cap \uni0308_acutecomb.cap \uni0308_gravecomb.cap \brevecmb.cyrcap \uni0308.cyrcap \uni0308_gravecomb.cyrcap \uni0308_acutecomb.cyrcap ] ;
+    sub @cc18_back_1 @cc18_match_2'  by [\gravecomb.cap \acutecomb.cap \circumflexcmb.cap \uni0303.cap \macroncmb.cap \brevecmb.cap \uni0307.cap \uni0308.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0485.cap \uni0486.cap \uni0486_acutecomb.cap \uni0486_gravecomb.cap \uni0485_acutecomb.cap \uni0485_gravecomb.cap \uni0308_acutecomb.cap \uni0308_gravecomb.cap \brevecmb.cyrcap \uni0308.cyrcap \uni0308_gravecomb.cyrcap \uni0308_acutecomb.cyrcap ] ;
 } ccmpCapitalAccentsChained;
 
 lookup loclss01RomanianVariantForms {
@@ -1425,12 +1425,52 @@ lookup markCombiningMarkPositioning {
   pos base [\afii10043.modern ] <anchor 486 752> mark @TopCap;
   pos base [\afii10041.old ] <anchor 359 752> mark @TopCap;
   markClass [\uni030F \uni0483 \uni0485 \uni0486 \uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 \uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 \uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF8 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC \uni2DFD \uni2DFE \uni2DFF \uniA66F \uniA674 \uniA675 \uniA676 \uniA677 \uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69F \uni0485_gravecomb \uni0485_acutecomb \uni0486_gravecomb \uni0486_acutecomb \uni2DE0_uni0487 \uni2DE1_uni0487 \uni2DE2_uni0487 \uni2DE3_uni0487 \uni2DE4_uni0487 \uni2DE5_uni0487 \uni2DE6_uni0487 \uni2DE7_uni0487 \uni2DE8_uni0487 \uni2DE9_uni0487 \uni2DEA_uni0487 \uni2DEB_uni0487 \uni2DEC_uni0487 \uni2DED_uni0487 \uni2DEE_uni0487 \uni2DEF_uni0487 \uni2DF0_uni0487 \uni2DF1_uni0487 \uni2DF2_uni0487 \uni2DF3_uni0487 \uni2DF4_uni0487 \uni2DF6_uni0487 \uni2DF7_uni0487 \uni2DF8_uni0487 \uni2DF9_uni0487 \uni2DFA_uni0487 \uni2DFB_uni0487 \uni2DFC_uni0487 \uni2DFD_uni0487 \uni2DFE_uni0487 \uni2DFF_uni0487 \uniA674_uni0487 \uniA675_uni0487 \uniA676_uni0487 \uniA677_uni0487 \uniA678_uni0487 \uniA679_uni0487 \uniA67A_uni0487 \uniA67B_uni0487 \uniA69F_uni0487 \brevecmb.cyrl \uni0307.cyrl \uni0308.cyrl \uni0308_gravecomb.cyrl \uni0308_acutecomb.cyrl \uni2DE3.small \uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uniA69E \uniA69E_uni0487 \uniFE2E ] <anchor -215 537> @CyrMark;
+  markClass [\uni0484 ] <anchor -215 572> @CyrMark;
+  markClass [\uni0487 ] <anchor -215 736> @CyrMark;
+  markClass [\uni030F.cap \uni0485.cap \uni0485_gravecomb.cap \uni0485_acutecomb.cap \uni0308_gravecomb.cyrcap \uni0308_acutecomb.cyrcap \uni0487.wide ] <anchor -215 757> @CyrMark;
+  markClass [\uni0311.cap ] <anchor -215 767> @CyrMark;
+  markClass [\uni0486.cap ] <anchor -214 757> @CyrMark;
+  markClass [\uni0486_gravecomb.cap ] <anchor -215 756> @CyrMark;
+  markClass [\uni0486_acutecomb.cap ] <anchor -214 758> @CyrMark;
+  markClass [\brevecmb.cyrcap ] <anchor -215 724> @CyrMark;
+  markClass [\uni0308.cyrcap ] <anchor -215 785> @CyrMark;
   markClass [\uniFE2F ] <anchor -215 546> @CyrMark;
   markClass [\uniFE26 ] <anchor -215 545> @CyrMark;
   markClass [\uni0486_0311 ] <anchor -109 537> @CyrMark;
   markClass [\uni1DC0 ] <anchor -262 579> @CyrMark;
   markClass [\uni1DC1 ] <anchor -273 572> @CyrMark;
   markClass [\uF0023 ] <anchor -113 515> @CyrMark;
+  pos base [\afii10053 \afii10145 \afii10021 \afii10022 \afii10032 \afii10035 \afii10040 \uni0480 \uniA660 ] <anchor 346 752> mark @CyrMark;
+  pos base [\afii10054 \afii10146.low ] <anchor 341 752> mark @CyrMark;
+  pos base [\afii10055 ] <anchor 169 752> mark @CyrMark;
+  pos base [\afii10057 ] <anchor 350 752> mark @CyrMark;
+  pos base [\afii10058 ] <anchor 436 752> mark @CyrMark;
+  pos base [\afii10059 ] <anchor 361 752> mark @CyrMark;
+  pos base [\afii10060 ] <anchor 204 878> mark @CyrMark;
+  pos base [\afii10017 \uniA664 ] <anchor 446 752> mark @CyrMark;
+  pos base [\afii10018 ] <anchor 309 752> mark @CyrMark;
+  pos base [\afii10019 ] <anchor 333 752> mark @CyrMark;
+  pos base [\afii10020 ] <anchor 308 752> mark @CyrMark;
+  pos base [\afii10024 \uniA656 ] <anchor 463 752> mark @CyrMark;
+  pos base [\afii10025 ] <anchor 367 752> mark @CyrMark;
+  pos base [\afii10026 \afii10031 \afii10033 ] <anchor 351 752> mark @CyrMark;
+  pos base [\afii10028 ] <anchor 322 752> mark @CyrMark;
+  pos base [\afii10029 ] <anchor 395 752> mark @CyrMark;
+  pos base [\afii10030 ] <anchor 560 752> mark @CyrMark;
+  pos base [\afii10034 \uniA644 ] <anchor 321 752> mark @CyrMark;
+  pos base [\afii10036 ] <anchor 353 752> mark @CyrMark;
+  pos base [\afii10037 ] <anchor 402 760> mark @CyrMark;
+  pos base [\afii10038 \uniA662 ] <anchor 426 752> mark @CyrMark;
+  pos base [\afii10039 ] <anchor 366 752> mark @CyrMark;
+  pos base [\afii10041 ] <anchor 306 752> mark @CyrMark;
+  pos base [\afii10042 \uni0460.alt ] <anchor 488 752> mark @CyrMark;
+  pos base [\afii10043 ] <anchor 487 752> mark @CyrMark;
+  pos base [\afii10044 ] <anchor 373 752> mark @CyrMark;
+  pos base [\afii10045 ] <anchor 460 752> mark @CyrMark;
+  pos base [\afii10046 ] <anchor 173 752> mark @CyrMark;
+  pos base [\afii10047 ] <anchor 354 752> mark @CyrMark;
+  pos base [\afii10048 \uni0464 ] <anchor 476 752> mark @CyrMark;
+  pos base [\afii10049 ] <anchor 372 752> mark @CyrMark;
   pos base [\afii10065 ] <anchor 260 537> mark @CyrMark;
   pos base [\afii10066 \afii10067 ] <anchor 252 537> mark @CyrMark;
   pos base [\afii10068 ] <anchor 248 537> mark @CyrMark;
@@ -1457,43 +1497,79 @@ lookup markCombiningMarkPositioning {
   pos base [\afii10101 ] <anchor 287 537> mark @CyrMark;
   pos base [\afii10103 ] <anchor 130 537> mark @CyrMark;
   pos base [\afii10193 ] <anchor 271 537> mark @CyrMark;
+  pos base [\uni0460 ] <anchor 526 752> mark @CyrMark;
   pos base [\uni0461 ] <anchor 384 537> mark @CyrMark;
   pos base [\uni0465 ] <anchor 385 537> mark @CyrMark;
+  pos base [\uni0466 ] <anchor 437 752> mark @CyrMark;
   pos base [\uni0467 \uniA659 ] <anchor 334 537> mark @CyrMark;
+  pos base [\uni0468 ] <anchor 494 752> mark @CyrMark;
   pos base [\uni0469 \uniA65D ] <anchor 389 537> mark @CyrMark;
+  pos base [\uni046A ] <anchor 474 752> mark @CyrMark;
   pos base [\uni046B \uniA65B ] <anchor 354 537> mark @CyrMark;
+  pos base [\uni046C ] <anchor 642 752> mark @CyrMark;
   pos base [\uni046D ] <anchor 465 537> mark @CyrMark;
+  pos base [\uni046E ] <anchor 316 890> mark @CyrMark;
   pos base [\uni046F ] <anchor 280 628> mark @CyrMark;
+  pos base [\uni0470 ] <anchor 436 891> mark @CyrMark;
   pos base [\uni0471 ] <anchor 354 670> mark @CyrMark;
+  pos base [\afii10147 ] <anchor 319 753> mark @CyrMark;
   pos base [\afii10195 ] <anchor 311 537> mark @CyrMark;
+  pos base [\afii10148 ] <anchor 402 752> mark @CyrMark;
   pos base [\uni0478 ] <anchor 935 537> mark @CyrMark;
   pos base [\uni0479 ] <anchor 548 537> mark @CyrMark;
+  pos base [\uni047A ] <anchor 679 751> mark @CyrMark;
   pos base [\uni047B \uniA66B \uniA69B ] <anchor 555 537> mark @CyrMark;
+  pos base [\uni047E ] <anchor 494 946> mark @CyrMark;
   pos base [\uni047F ] <anchor 374 705> mark @CyrMark;
   pos base [\uni0481 ] <anchor 289 537> mark @CyrMark;
+  pos base [\afii10050 ] <anchor 176 752> mark @CyrMark;
+  pos base [\uni04A4 ] <anchor 407 752> mark @CyrMark;
   pos base [\uni04A5 ] <anchor 339 537> mark @CyrMark;
+  pos base [\uni0510 \uniA642 ] <anchor 326 752> mark @CyrMark;
   pos base [\uni0511 \afii10105.dotless ] <anchor 217 537> mark @CyrMark;
+  pos base [\uniA640 ] <anchor 328 752> mark @CyrMark;
   pos base [\uniA641 \uniA643 ] <anchor 241 537> mark @CyrMark;
   pos base [\uniA645 ] <anchor 250 537> mark @CyrMark;
+  pos base [\uniA646 ] <anchor 163 747> mark @CyrMark;
   pos base [\uniA647 ] <anchor 141 537> mark @CyrMark;
+  pos base [\uniA648 ] <anchor 373 872> mark @CyrMark;
+  pos base [\uniA64A ] <anchor 412 752> mark @CyrMark;
+  pos base [\uniA64C ] <anchor 606 752> mark @CyrMark;
   pos base [\uniA64D ] <anchor 510 537> mark @CyrMark;
+  pos base [\uniA64E ] <anchor 312 752> mark @CyrMark;
   pos base [\uniA64F ] <anchor 236 537> mark @CyrMark;
+  pos base [\uniA650 ] <anchor 650 752> mark @CyrMark;
   pos base [\uniA651 \uniA651.connecting ] <anchor 439 537> mark @CyrMark;
+  pos base [\uniA652 ] <anchor 320 752> mark @CyrMark;
+  pos base [\uniA654 ] <anchor 507 752> mark @CyrMark;
   pos base [\uniA655 ] <anchor 270 537> mark @CyrMark;
   pos base [\uniA657 ] <anchor 340 537> mark @CyrMark;
+  pos base [\uniA658 ] <anchor 442 752> mark @CyrMark;
+  pos base [\uniA65A ] <anchor 506 752> mark @CyrMark;
+  pos base [\uniA65C ] <anchor 496 752> mark @CyrMark;
+  pos base [\uniA65E ] <anchor 456 752> mark @CyrMark;
   pos base [\uniA65F ] <anchor 331 537> mark @CyrMark;
   pos base [\uniA663 ] <anchor 375 537> mark @CyrMark;
   pos base [\uniA665 ] <anchor 378 537> mark @CyrMark;
+  pos base [\uniA666 ] <anchor 636 752> mark @CyrMark;
   pos base [\uniA667 ] <anchor 483 537> mark @CyrMark;
+  pos base [\uniA668 ] <anchor 397 751> mark @CyrMark;
   pos base [\uniA669 \afii10089.old ] <anchor 257 537> mark @CyrMark;
+  pos base [\uniA66A ] <anchor 684 752> mark @CyrMark;
+  pos base [\uniA66C ] <anchor 665 752> mark @CyrMark;
   pos base [\uniA66D ] <anchor 441 537> mark @CyrMark;
   pos base [\uniA66E ] <anchor 368 641> mark @CyrMark;
+  pos base [\uniA698 ] <anchor 551 752> mark @CyrMark;
   pos base [\uniA699 ] <anchor 417 537> mark @CyrMark;
+  pos base [\uniA69A ] <anchor 678 752> mark @CyrMark;
+  pos base [\uni0478.cap ] <anchor 996 752> mark @CyrMark;
   pos base [\afii10194.low ] <anchor 308 530> mark @CyrMark;
   pos base [\uniA64B.low ] <anchor 381 628> mark @CyrMark;
   pos base [\uniA653.low ] <anchor 493 530> mark @CyrMark;
   pos base [\afii10194.lowanchor ] <anchor 358 530> mark @CyrMark;
+  pos base [\afii10043.modern ] <anchor 486 752> mark @CyrMark;
   pos base [\uni1C82 ] <anchor 160 537> mark @CyrMark;
+  pos base [\afii10041.old ] <anchor 359 752> mark @CyrMark;
   pos base [\uni1C80 ] <anchor 212 537> mark @CyrMark;
   pos base [\uni1C83 ] <anchor 282 543> mark @CyrMark;
   pos base [\uni1C84 ] <anchor 132 768> mark @CyrMark;

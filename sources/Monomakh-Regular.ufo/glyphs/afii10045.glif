@@ -2,6 +2,7 @@
 <glyph name="afii10045" format="2">
   <advance width="908"/>
   <unicode hex="042B"/>
+  <anchor x="460" y="752" name="CyrMark"/>
   <anchor x="460" y="752" name="TopCap"/>
   <anchor x="908" y="762" name="DblMark"/>
   <anchor x="661" y="742" name="Yerik"/>

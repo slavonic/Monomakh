@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0487.wide" format="2">
   <advance width="0"/>
+  <anchor x="-215" y="757" name="_CyrMark"/>
   <outline>
     <contour>
       <point x="-617" y="758" type="curve" smooth="yes"/>

@@ -2,6 +2,7 @@
 <glyph name="uni0487" format="2">
   <advance width="0"/>
   <unicode hex="0487"/>
+  <anchor x="-215" y="736" name="_CyrMark"/>
   <outline>
     <contour>
       <point x="-564" y="758" type="curve" smooth="yes"/>

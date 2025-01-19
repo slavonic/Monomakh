@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308.cyrcap" format="2">
   <advance width="0"/>
+  <anchor x="-215" y="785" name="_CyrMark"/>
   <outline>
     <component base="Dieresis.cyrl" xOffset="-430"/>
   </outline>
