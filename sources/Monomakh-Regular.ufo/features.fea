@@ -1146,7 +1146,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uniA669 ] <anchor 256 548> mark @Top;
   pos base [\uniA66B ] <anchor 555 548> mark @Top;
   pos base [\uniA66D ] <anchor 440 547> mark @Top;
-  pos base [\uniA66E ] <anchor 368 650> mark @Top;
+  pos base [\uniA66E ] <anchor 533 789> mark @Top;
   pos base [\uniA699 ] <anchor 413 538> mark @Top;
   pos base [\uniA69B ] <anchor 553 530> mark @Top;
   pos base [\afii10093.connecting ] <anchor 347 536> mark @Top;
@@ -1214,7 +1214,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uniA65F ] <anchor 331 557> mark @Acute;
   pos base [\uniA669 ] <anchor 257 557> mark @Acute;
   pos base [\uniA66D ] <anchor 441 557> mark @Acute;
-  pos base [\uniA66E ] <anchor 368 660> mark @Acute;
+  pos base [\uniA66E ] <anchor 533 799> mark @Acute;
   pos base [\uniA699 ] <anchor 417 557> mark @Acute;
   pos base [\afii10194.anchor ] <anchor 506 557> mark @Acute;
   pos base [\uniA64B.low ] <anchor 324 647> mark @Acute;
@@ -1270,7 +1270,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uniA65F ] <anchor 331 547> mark @Grave;
   pos base [\uniA669 ] <anchor 257 547> mark @Grave;
   pos base [\uniA66D ] <anchor 441 547> mark @Grave;
-  pos base [\uniA66E ] <anchor 368 650> mark @Grave;
+  pos base [\uniA66E ] <anchor 533 789> mark @Grave;
   pos base [\uniA699 ] <anchor 417 547> mark @Grave;
   pos base [\uniA64B.low ] <anchor 289 638> mark @Grave;
   pos base [\uni1C82 ] <anchor 160 547> mark @Grave;
@@ -1558,7 +1558,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uniA66A ] <anchor 684 752> mark @CyrMark;
   pos base [\uniA66C ] <anchor 665 752> mark @CyrMark;
   pos base [\uniA66D ] <anchor 441 537> mark @CyrMark;
-  pos base [\uniA66E ] <anchor 368 641> mark @CyrMark;
+  pos base [\uniA66E ] <anchor 533 780> mark @CyrMark;
   pos base [\uniA698 ] <anchor 551 752> mark @CyrMark;
   pos base [\uniA699 ] <anchor 417 537> mark @CyrMark;
   pos base [\uniA69A ] <anchor 678 752> mark @CyrMark;
@@ -1697,7 +1697,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uniA669 ] <anchor 363 518> mark @Yerik;
   pos base [\uniA66C ] <anchor 969 742> mark @Yerik;
   pos base [\uniA66D ] <anchor 637 518> mark @Yerik;
-  pos base [\uniA66E ] <anchor 519 621> mark @Yerik;
+  pos base [\uniA66E ] <anchor 969 780> mark @Yerik;
   pos base [\uniA698 ] <anchor 802 742> mark @Yerik;
   pos base [\uniA699 ] <anchor 595 518> mark @Yerik;
   pos base [\uni0478.cap ] <anchor 1146 742> mark @Yerik;
