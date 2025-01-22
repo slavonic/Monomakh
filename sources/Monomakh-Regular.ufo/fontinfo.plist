@@ -62,11 +62,7 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
-    <key>openTypeOS2Selection</key>
-    <array>
-      <integer>7</integer>
-    </array>
-    <key>openTypeOS2Type</key>
+    <key>openTypeOS2Selection</key>n    <array>n      <integer>7</integer>n    </array>n    <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
     <integer>932</integer>

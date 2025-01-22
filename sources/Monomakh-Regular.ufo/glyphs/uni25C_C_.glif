@@ -2,6 +2,16 @@
 <glyph name="uni25CC" format="2">
   <advance width="429"/>
   <unicode hex="25CC"/>
+  <anchor x="215" y="0" name="Bottom"/>
+  <anchor x="218" y="530" name="Acute"/>
+  <anchor x="218" y="531" name="Grave"/>
+  <anchor x="218" y="529" name="TopCap"/>
+  <anchor x="218" y="528" name="HighMark"/>
+  <anchor x="220" y="533" name="Kamora"/>
+  <anchor x="429" y="519" name="DblMark"/>
+  <anchor x="218" y="537" name="CyrMark"/>
+  <anchor x="337" y="518" name="Yerik"/>
+  <anchor x="216" y="530" name="Top"/>
   <outline>
     <contour>
       <point x="-2" y="231" type="curve" smooth="yes"/>
