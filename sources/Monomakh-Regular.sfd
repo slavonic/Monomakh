@@ -24,21 +24,21 @@ ModificationTime: 1737393060
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 273
+LineGap: 0
 VLineGap: 90
 Panose: 2 6 7 3 8 0 6 0 0 0
-OS2TypoAscent: 732
+OS2TypoAscent: 932
 OS2TypoAOffset: 0
-OS2TypoDescent: -268
+OS2TypoDescent: -341
 OS2TypoDOffset: 0
-OS2TypoLinegap: 273
+OS2TypoLinegap: 0
 OS2WinAscent: 984
 OS2WinAOffset: 0
 OS2WinDescent: 334
 OS2WinDOffset: 0
-HheadAscent: 732
+HheadAscent: 932
 HheadAOffset: 0
-HheadDescent: -268
+HheadDescent: -341
 HheadDOffset: 0
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "'ss06' Cyrillic i with dot above" { "'ss06' Cyrillic i with dot above-1"  } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
