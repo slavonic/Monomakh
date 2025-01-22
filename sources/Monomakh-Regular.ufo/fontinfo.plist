@@ -27,11 +27,11 @@
     <key>openTypeHeadCreated</key>
     <string>2011/09/13 12:06:04</string>
     <key>openTypeHheaAscender</key>
-    <integer>732</integer>
+    <integer>932</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-268</integer>
+    <integer>-341</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>273</integer>
+    <integer>0</integer>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
@@ -62,14 +62,18 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>732</integer>
+    <integer>932</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-268</integer>
+    <integer>-341</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>273</integer>
+    <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>984</integer>
     <key>openTypeOS2WinDescent</key>
