@@ -4,3 +4,4 @@
 #
 # Names should be added to this file as:
 Aleksandr Andreev <aleksandr.andreev@gmail.com>
+Nikita Simmons <starina77@yahoo.com>
