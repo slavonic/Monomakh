@@ -3,7 +3,7 @@ FontName: Monomakh-Regular
 FullName: Monomakh
 FamilyName: Monomakh
 Weight: Regular
-Copyright: Copyright 2024 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)
+Copyright: Copyright 2025 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)
 Version: 1.200
 ItalicAngle: 0
 UnderlinePosition: -125
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1315915564
-ModificationTime: 1737574898
+ModificationTime: 1737630202
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1306,16 +1306,16 @@ ShortTable: cvt  85
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/ofl"
 GaspTable: 3 10 8 19 5 65535 15 1
-OtfFeatName: 'ss15' 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8" 1033 "Add Pokrytie to Combining Letters when Appropriate"
-OtfFeatName: 'ss13' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BE8EOgQ+BEAEPQRDBE4A +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BC8EQgRM" 1033 "Cyrillic Yat with Long Back Beak"
-OtfFeatName: 'ss12' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCIA" 1033 "Cyrillic Tverdo with Three Legs"
-OtfFeatName: 'ss11' 1049 "+BBEEQwQ6BDIEMAAA +BCsA +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5" 1033 "Connecting Cyrillic YERY"
-OtfFeatName: 'ss10' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCkA" 1033 "Use the Modern Form for Cyrillic Shcha"
-OtfFeatName: 'ss09' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCcA" 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che"
-OtfFeatName: 'ss08' 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +BBcA +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA" 1033 "Use Sharp Cyrillic Ze instead of the Round Form"
-OtfFeatName: 'ss07' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA" 1033 "Display Cyrillic Decimal i with Dieresis"
-OtfFeatName: 'ss06' 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5" 1033 "Display Cyrillic Decimal i with Dotaccent"
-OtfFeatName: 'ss01' 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA" 1033 "Combinations with Comma Below for Romanian"
+OtfFeatName: 'ss01' 1033 "Combinations with Comma Below for Romanian" 1049 "+BCEEPgRHBDUEQgQwBD0EOARP +BEEA +BD0EOAQ2BD0ENQQ5 +BDcEMAQ/BE8EQgQ+BDkA +BDQEOwRP +BEAEQwQ8BEsEPQRBBDoEPgQzBD4A +BE8ENwRLBDoEMAAA"
+OtfFeatName: 'ss06' 1033 "Display Cyrillic Decimal i with Dotaccent" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BD4ENAQ9BD4EOQAA +BEIEPgRHBDoEPgQ5"
+OtfFeatName: 'ss07' 1033 "Display Cyrillic Decimal i with Dieresis" 1049 "+BB4EQgQ+BDEEQAQwBDYEMARCBEwA +BDQENQRBBE8EQgQ4BEcEPQQ+BDUA i +BEEA +BDQEMgRDBDwETwAA +BEIEPgRHBDoEMAQ8BDgA"
+OtfFeatName: 'ss08' 1033 "Use Sharp Cyrillic Ze instead of the Round Form" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BD4EQQRCBEAEQwRO +BEQEPgRABDwEQwAA +BDEEQwQ6BDIESwAA +BBcA +BDIEPAQ1BEEEQgQ+ +BD4EOgRABEMEMwQ7BD4EOQAA"
+OtfFeatName: 'ss09' 1033 "Use the Historic (Double-Sided) Form for Cyrillic Che" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BDgEQQRCBD4EQAQ4BEcENQRBBDoEQwRO (+BDQEMgRDBEEEQgQ+BEAEPgQ9BD0ETgRO) +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCcA"
+OtfFeatName: 'ss10' 1033 "Use the Modern Form for Cyrillic Shcha" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEEEPgQyBEAENQQ8BDUEPQQ9BEMETgAA +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCkA"
+OtfFeatName: 'ss11' 1033 "Connecting Cyrillic YERY" 1049 "+BBEEQwQ6BDIEMAAA +BCsA +BEEA +BEEEPgQ1BDQEOAQ9BDgEQgQ1BDsETAQ9BD4EOQAA +BDsEOAQ9BDgENQQ5"
+OtfFeatName: 'ss12' 1033 "Cyrillic Tverdo with Three Legs" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BEQEPgRABDwEQwAA +BEEA +BEIEQAQ1BDwETwAA +BDwEMARHBEIEMAQ8BDgA +BDQEOwRP +BDEEQwQ6BDIESwAA +BCIA"
+OtfFeatName: 'ss13' 1033 "Cyrillic Yat with Long Back Beak" 1049 "+BBgEQQQ/BD4EOwRMBDcEPgQyBDAEQgRM +BE8EOgQ+BEAEPQRDBE4A +BEQEPgRABDwEQwAA +BDQEOwRP +BDEEQwQ6BDIESwAA +BC8EQgRM"
+OtfFeatName: 'ss15' 1033 "Add Pokrytie to Combining Letters when Appropriate" 1049 "+BBAEMgRCBD4EPAQwBEIEOARHBDUEQQQ6BDgA +BDQEPgQxBDAEMgQ7BE8EQgRM +BD8EPgQ6BEAESwRCBDgENQAA +BDoA +BDIESwQ9BD4EQQQ9BEsEPAAA +BDEEQwQ6BDIEMAQ8"
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List

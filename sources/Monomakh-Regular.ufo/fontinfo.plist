@@ -15,7 +15,7 @@
     <key>versionMinor</key>
     <integer>200</integer>
     <key>copyright</key>
-    <string>Copyright 2024 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)</string>
+    <string>Copyright 2025 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>ascender</key>
@@ -62,7 +62,11 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
-    <key>openTypeOS2Selection</key>n    <array>n      <integer>7</integer>n    </array>n    <key>openTypeOS2Type</key>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
     <integer>932</integer>
