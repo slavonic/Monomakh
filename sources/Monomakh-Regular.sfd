@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1315915564
-ModificationTime: 1737630202
+ModificationTime: 1737639488
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -40,7 +40,7 @@ HheadAscent: 932
 HheadAOffset: 0
 HheadDescent: -341
 HheadDOffset: 0
-OS2Vendor: 'PfEd'
+OS2Vendor: '    '
 Lookup: 1 0 0 "'ss06' Cyrillic i with dot above" { "'ss06' Cyrillic i with dot above-1"  } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss07' Cyrillic i with two dots above" { "'ss07' Cyrillic i with two dots above-1"  } ['ss07' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Sharp Cyrillic Zemlya" { "'ss08' Sharp Cyrillic Zemlya-1"  } ['ss08' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
@@ -8567,13 +8567,12 @@ VWidth: 0
 GlyphClass: 2
 LigCaretCntFixed: 1
 Flags: W
-HStem: 0 29<47 98 235 412.881> 452 305 664 29<47 98 235 286>
-VStem: 98 137<29 664> 507 83<564.31 678.5>
+HStem: 0 29<47 98 235 412.881> 453 305 664 29<47 98 235 286>
+VStem: 98 137<29 664> 509 83<565.31 679.5>
 LayerCount: 2
 Fore
-Refer: 535 8217 N 1 0 0 1 375 0 2
+Refer: 858 -1 N 1 0 0 1 607 -39 2
 Refer: 44 76 N 1 0 0 1 0 0 2
-Validated: 32769
 Ligature2: "'ccmp' Simple Glyph Composition-1" L uni030C
 EndChar
 
@@ -17581,18 +17580,18 @@ VStem: 132 83<564.31 678.5>
 LayerCount: 2
 Fore
 SplineSet
-52 472 m 0
- 52 476 58 482 70 490 c 0
- 100 512 132 541 132 587 c 0
- 132 615 116 633 93 653 c 0
- 70 673 61 683 61 694 c 0
- 61 702 68 712 86 720 c 0
- 101 726 113 734 125 743 c 0
- 137 752 147 757 158 757 c 0
- 180 757 215 705 215 652 c 0
- 215 584 184 544 151 509 c 0
- 125 481 83 452 68 452 c 0
- 62 452 52 465 52 472 c 0
+52 472 m 4
+ 52 476 58 482 70 490 c 4
+ 100 512 132 541 132 587 c 4
+ 132 615 116 633 93 653 c 4
+ 70 673 61 683 61 694 c 4
+ 61 702 68 712 86 720 c 4
+ 101 726 113 734 125 743 c 4
+ 137 752 147 757 158 757 c 4
+ 180 757 215 705 215 652 c 4
+ 215 584 184 544 151 509 c 4
+ 125 481 83 452 68 452 c 4
+ 62 452 52 465 52 472 c 4
 EndSplineSet
 Validated: 19457
 EndChar
@@ -23144,7 +23143,7 @@ EndChar
 
 StartChar: uniA674
 Encoding: 685 42612 665
-Width: 21
+Width: 0
 VWidth: 0
 GlyphClass: 4
 Flags: HW
@@ -29085,24 +29084,24 @@ StartChar: caron.alt
 Encoding: 858 -1 858
 Width: 0
 Flags: W
-HStem: 494 301
-VStem: -108 72<597.11 720.5>
+HStem: 492 305
+VStem: -98 83<604.31 718.5>
 AnchorPoint: "Top" -215 732 mark 0
 LayerCount: 2
 Fore
 SplineSet
--188 514 m 0
- -188 518 -182 524 -170 532 c 0
- -140 554 -108 579 -108 625 c 0
- -108 657 -120 679 -143 699 c 0
- -166 719 -170 725 -170 736 c 0
- -170 744 -162 751 -145 762 c 0
- -135 769 -129 772 -119 781 c 0
- -107 791 -100 795 -89 795 c 0
- -67 795 -36 747 -36 694 c 0
- -36 626 -59 586 -88 555 c 0
- -114 527 -157 494 -172 494 c 0
- -178 494 -188 507 -188 514 c 0
+-178 512 m 0
+ -178 516 -172 522 -160 530 c 0
+ -130 552 -98 581 -98 627 c 0
+ -98 655 -114 673 -137 693 c 0
+ -160 713 -169 723 -169 734 c 0
+ -169 742 -162 752 -144 760 c 0
+ -129 766 -117 774 -105 783 c 0
+ -93 792 -83 797 -72 797 c 0
+ -50 797 -15 745 -15 692 c 0
+ -15 624 -46 584 -79 549 c 0
+ -105 521 -147 492 -162 492 c 0
+ -168 492 -178 505 -178 512 c 0
 EndSplineSet
 EndChar
 EndChars
