@@ -15,7 +15,7 @@
     <key>versionMinor</key>
     <integer>200</integer>
     <key>copyright</key>
-    <string>Copyright 2024 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)</string>
+    <string>Copyright 2025 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>ascender</key>
@@ -56,7 +56,7 @@
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
+    <string>    </string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>0</integer>

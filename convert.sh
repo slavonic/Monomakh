@@ -18,4 +18,4 @@ $FONTFORGE_BIN -lang=ff -c 'Open($1); Generate($2)' sources/Monomakh-Regular.sfd
 # because FontForge doesn't write this to the file and
 # because I'm sick of removing this from the commit staging every time
 FONTINFO=`cat sources/Monomakh-Regular.ufo/fontinfo.plist`
-echo "${FONTINFO/    <key>openTypeOS2Type<\/key>/    <key>openTypeOS2Selection</key>\n    <array>\n      <integer>7</integer>\n    </array>\n    <key>openTypeOS2Type</key>}" > sources/Monomakh-Regular.ufo/fontinfo.plist
+echo "${FONTINFO/    <key>openTypeOS2Type<\/key>/    <key>openTypeOS2Selection</key>$'\n'    <array>$'\n'      <integer>7</integer>$'\n'    </array>$'\n'    <key>openTypeOS2Type</key>}" > sources/Monomakh-Regular.ufo/fontinfo.plist

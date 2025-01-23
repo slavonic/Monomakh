@@ -1058,6 +1058,7 @@ lookup markCombiningMarkPositioning {
   markClass [\circumflexcmb \tildecomb \brevecmb \uni0307 \uni0308 \uni030A \uni030B \uni030C \uni0312 \uni0313 \uni0314 \uni0308_acutecomb ] <anchor -215 537> @Top;
   markClass [\macroncmb ] <anchor -214 535> @Top;
   markClass [\uni0308_gravecomb ] <anchor -211 537> @Top;
+  markClass [\caron.alt ] <anchor -215 732> @Top;
   pos base [\a \aogonek ] <anchor 260 537> mark @Top;
   pos base [\c \ccedilla ] <anchor 270 537> mark @Top;
   pos base [\e ] <anchor 271 537> mark @Top;
@@ -1127,6 +1128,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni0481 ] <anchor 288 538> mark @Top;
   pos base [\afii10098 ] <anchor 233 538> mark @Top;
   pos base [\uni04A5 ] <anchor 337 538> mark @Top;
+  pos base [\uni25CC ] <anchor 216 530> mark @Top;
   pos base [\uniA641 \uniA643 ] <anchor 241 537> mark @Top;
   pos base [\uniA645 ] <anchor 250 537> mark @Top;
   pos base [\uniA647 ] <anchor 139 538> mark @Top;
@@ -1205,6 +1207,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni047B \uniA66B \uniA69B ] <anchor 555 557> mark @Acute;
   pos base [\uni047F ] <anchor 754 557> mark @Acute;
   pos base [\uni0511 \afii10105.dotless ] <anchor 217 557> mark @Acute;
+  pos base [\uni25CC ] <anchor 218 530> mark @Acute;
   pos base [\uniA647 ] <anchor 141 557> mark @Acute;
   pos base [\uniA64D ] <anchor 510 557> mark @Acute;
   pos base [\uniA64F ] <anchor 236 557> mark @Acute;
@@ -1261,6 +1264,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni047B \uniA66B \uniA69B ] <anchor 555 547> mark @Grave;
   pos base [\uni047F ] <anchor 22 547> mark @Grave;
   pos base [\uni0511 \afii10105.dotless ] <anchor 217 547> mark @Grave;
+  pos base [\uni25CC ] <anchor 218 531> mark @Grave;
   pos base [\uniA647 ] <anchor 141 547> mark @Grave;
   pos base [\uniA64D ] <anchor 510 547> mark @Grave;
   pos base [\uniA64F ] <anchor 236 547> mark @Grave;
@@ -1290,7 +1294,7 @@ lookup markCombiningMarkPositioning {
   pos base [\L ] <anchor 328 0> mark @Bottom;
   pos base [\M ] <anchor 442 0> mark @Bottom;
   pos base [\N ] <anchor 390 0> mark @Bottom;
-  pos base [\Q ] <anchor 215 0> mark @Bottom;
+  pos base [\Q \uni25CC ] <anchor 215 0> mark @Bottom;
   pos base [\R ] <anchor 398 0> mark @Bottom;
   pos base [\S ] <anchor 306 0> mark @Bottom;
   pos base [\T \U ] <anchor 372 0> mark @Bottom;
@@ -1330,6 +1334,7 @@ lookup markCombiningMarkPositioning {
   pos base [\l ] <anchor 153 791> mark @HighMark;
   pos base [\w ] <anchor 440 557> mark @HighMark;
   pos base [\z ] <anchor 269 557> mark @HighMark;
+  pos base [\uni25CC ] <anchor 218 528> mark @HighMark;
   markClass [\gravecomb.cap \acutecomb.cap \circumflexcmb.cap \uni0303.cap \macroncmb.cap \brevecmb.cap \uni0307.cap \uni0308.cap \uni030A.cap \uni030B.cap \uni030C.cap ] <anchor -215 762> @TopCap;
   markClass [\uni0308_gravecomb.cap ] <anchor -207 762> @TopCap;
   markClass [\uni0308_acutecomb.cap ] <anchor -223 762> @TopCap;
@@ -1397,6 +1402,7 @@ lookup markCombiningMarkPositioning {
   pos base [\afii10050 ] <anchor 174 752> mark @TopCap;
   pos base [\uni04A4 ] <anchor 408 752> mark @TopCap;
   pos base [\uni0510 ] <anchor 326 752> mark @TopCap;
+  pos base [\uni25CC ] <anchor 218 529> mark @TopCap;
   pos base [\uniA640 ] <anchor 329 752> mark @TopCap;
   pos base [\uniA642 ] <anchor 327 752> mark @TopCap;
   pos base [\uniA646 ] <anchor 162 746> mark @TopCap;
@@ -1527,6 +1533,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni04A5 ] <anchor 339 537> mark @CyrMark;
   pos base [\uni0510 \uniA642 ] <anchor 326 752> mark @CyrMark;
   pos base [\uni0511 \afii10105.dotless ] <anchor 217 537> mark @CyrMark;
+  pos base [\uni25CC ] <anchor 218 537> mark @CyrMark;
   pos base [\uniA640 ] <anchor 328 752> mark @CyrMark;
   pos base [\uniA641 \uniA643 ] <anchor 241 537> mark @CyrMark;
   pos base [\uniA645 ] <anchor 250 537> mark @CyrMark;
@@ -1577,6 +1584,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni1C88 ] <anchor 184 907> mark @CyrMark;
   markClass [\uni0311 ] <anchor -215 547> @Kamora;
   pos base [\afii10194 ] <anchor 308 750> mark @Kamora;
+  pos base [\uni25CC ] <anchor 220 533> mark @Kamora;
   pos base [\uniA653 ] <anchor 493 750> mark @Kamora;
   pos base [\afii10194.anchor ] <anchor 360 750> mark @Kamora;
   pos base [\uni1C87 ] <anchor 107 869> mark @Kamora;
@@ -1666,6 +1674,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni04A4 ] <anchor 659 742> mark @Yerik;
   pos base [\uni04A5 ] <anchor 504 518> mark @Yerik;
   pos base [\uni0511 ] <anchor 277 518> mark @Yerik;
+  pos base [\uni25CC ] <anchor 337 518> mark @Yerik;
   pos base [\uniA640 ] <anchor 451 742> mark @Yerik;
   pos base [\uniA641 ] <anchor 348 518> mark @Yerik;
   pos base [\uniA642 ] <anchor 456 742> mark @Yerik;
@@ -1762,6 +1771,7 @@ lookup markCombiningMarkPositioning {
   pos base [\uni047F ] <anchor 723 705> mark @DblMark;
   pos base [\uni04A4 ] <anchor 923 762> mark @DblMark;
   pos base [\uni0510 ] <anchor 645 762> mark @DblMark;
+  pos base [\uni25CC ] <anchor 429 519> mark @DblMark;
   pos base [\uniA640 \uniA642 ] <anchor 596 762> mark @DblMark;
   pos base [\uniA644 ] <anchor 627 762> mark @DblMark;
   pos base [\uniA646 ] <anchor 459 762> mark @DblMark;
@@ -3200,7 +3210,7 @@ feature kern {
 	\circumflexcmb.high \uniA66F.large \uni0487.narrow \uni2DE3.small 
 	\uni2DE4.small \uni2DE5.small \uni2DE8.small \uni2DEE.small \uni0487.wide 
 	\uniA69E \uniA69E_uni0487 \uniFE2E \uniFE2F \uniFE26 \uni0486_0311 \uni1DC0 
-	\uni1DC1 \uF0023 ];
+	\uni1DC1 \uF0023 \caron.alt ];
 @GDEF_Component = [\periodcentered.cat \afii10105.dotless ];
 
 table GDEF {
