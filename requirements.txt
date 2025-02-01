@@ -13,14 +13,14 @@ afdko==4.0.2
     # via gftools
 appdirs==1.4.4
     # via fs
-attrs==24.3.0
+attrs==25.1.0
     # via
     #   cattrs
     #   outcome
     #   statmake
     #   trio
     #   ufolib2
-axisregistry==0.4.11
+axisregistry==0.4.12
     # via
     #   fontbakery
     #   gftools
@@ -57,7 +57,7 @@ cattrs==24.1.2
     # via
     #   statmake
     #   ufolib2
-certifi==2024.12.14
+certifi==2025.1.31
     # via
     #   requests
     #   selenium
@@ -91,7 +91,7 @@ defcon[lxml,pens]==0.10.3
     #   ufoprocessor
 dehinter==4.0.0
     # via fontbakery
-deprecated==1.2.15
+deprecated==1.2.18
     # via pygithub
 diffenator2==0.4.5
     # via
@@ -101,7 +101,7 @@ docopt==0.6.2
     # via num2words
 drawbot-skia==0.5.1
     # via -r requirements.in
-filelock==3.16.1
+filelock==3.17.0
     # via youseedee
 font-v==2.1.0
     # via gftools
@@ -125,7 +125,7 @@ fontparts==0.12.3
     # via ufoprocessor
 fontpens==0.2.4
     # via defcon
-fonttools[lxml,ufo,unicode,woff]==4.55.3
+fonttools[lxml,ufo,unicode,woff]==4.55.8
     # via
     #   afdko
     #   axisregistry
@@ -180,7 +180,7 @@ gfsubsets==2024.9.25
     # via
     #   fontbakery
     #   gftools
-gftools[qa]==0.9.76
+gftools[qa]==0.9.77
     # via -r requirements.in
 gitdb==4.0.12
     # via gitpython
@@ -191,7 +191,7 @@ glyphsets==1.1.0
     #   diffenator2
     #   fontbakery
     #   gftools
-glyphslib==6.9.5
+glyphslib==6.10.1
     # via
     #   bumpfontversion
     #   fontmake
@@ -245,7 +245,7 @@ numpy==2.2.2
     #   blackrenderer
     #   drawbot-skia
     #   skia-python
-openstep-plist==0.4.0
+openstep-plist==0.5.0
     # via
     #   babelfont
     #   bumpfontversion
@@ -344,7 +344,7 @@ ruamel-yaml==0.18.10
     # via gftools
 ruamel-yaml-clib==0.2.12
     # via ruamel-yaml
-selenium==4.27.1
+selenium==4.28.1
     # via diffenator2
 sh==2.2.1
     # via -r requirements.in
@@ -374,7 +374,7 @@ soupsieve==2.6
     # via beautifulsoup4
 sre-yield==1.2
     # via stringbrewer
-statmake==0.6.0
+statmake==1.0.1
     # via gftools
 strictyaml==1.7.3
     # via
@@ -409,13 +409,13 @@ typing-extensions==4.12.2
     # via
     #   pygithub
     #   selenium
-ufo2ft[cffsubr,compreffor]==3.4.0
+ufo2ft[cffsubr,compreffor]==3.4.1
     # via
     #   fontbakery
     #   fontmake
     #   nanoemoji
     #   shaperglot
-ufolib2[json]==0.17.0
+ufolib2[json]==0.17.1
     # via
     #   babelfont
     #   bumpfontversion
